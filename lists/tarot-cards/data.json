@@ -1,0 +1,420 @@
+{
+	"rankings": [
+		{
+			"title": "Binding of Isaac - Tarot Cards",
+			"state": "m7LQwGah4SSGSQsNZolNkhCZIizFyic5WZRDiH0KtyAz5zRGJn5eLh62KQziLAIA"
+		}
+	],
+	"items": [
+		{
+			"name": "O The Fool",
+			"props": {
+				"id": "The_Fool",
+				"img": {
+					"src": "assets/o-the-fool.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Teleports the player to the starting room of the current level, even if you use the card in the starting room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "I The Magician",
+			"props": {
+				"id": "The_Magician",
+				"img": {
+					"src": "assets/i-the-magician.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Player's shots curve towards enemies and may turn purple until you leave the current room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "II The High Priestess",
+			"props": {
+				"id": "The_High_Priestess",
+				"img": {
+					"src": "assets/ii-the-high-priestess.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nSummons Mom's foot stomp on a random enemy (targets the player if fighting Mom or if there are no enemies present), dealing massive damage — enough to kill most bosses.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "III The Empress",
+			"props": {
+				"id": "The_Empress",
+				"img": {
+					"src": "assets/iii-the-empress.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nTurns the player into a demon, increasing damage by 2 and speed by 1 until you leave the current room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "IV The Emperor",
+			"props": {
+				"id": "The_Emperor",
+				"img": {
+					"src": "assets/iv-the-emperor.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Teleports the player to the Boss Room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "V The Hierophant",
+			"props": {
+				"id": "The_Hierophant",
+				"img": {
+					"src": "assets/v-the-hierophant.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Spawns 2 soul hearts.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "VI The Lovers",
+			"props": {
+				"id": "The_Lovers",
+				"img": {
+					"src": "assets/vi-the-lovers.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Spawns 2 full hearts.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "VII The Chariot",
+			"props": {
+				"id": "The_Chariot",
+				"img": {
+					"src": "assets/vii-the-chariot.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nGrants you temporary invincibility, and causes you to damage enemies with touch.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "VIII Justice",
+			"props": {
+				"id": "Justice",
+				"img": {
+					"src": "assets/viii-justice.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Spawns 1 random type of Bomb drop, Key drop, Coin drop, and Heart drop.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "IX The Hermit",
+			"props": {
+				"id": "The_Hermit",
+				"img": {
+					"src": "assets/ix-the-hermit.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Teleports the player to the Shop.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "X Wheel of Fortune",
+			"props": {
+				"id": "Wheel_of_Fortune",
+				"img": {
+					"src": "assets/x-wheel-of-fortune.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Spawns a Slot Machine.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XI Strength",
+			"props": {
+				"id": "Strength",
+				"img": {
+					"src": "assets/xi-strength.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Makes the player bigger, increasing maximum health and damage until the player leaves the current room (same effect as Odd Mushroom (Large)).",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XII The Hanged Man",
+			"props": {
+				"id": "The_Hanged_Man",
+				"img": {
+					"src": "assets/xii-the-hanged-man.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Removes the player's body allowing flight over obstacles, spikes and pits until you leave the current room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XIII Death",
+			"props": {
+				"id": "Death",
+				"img": {
+					"src": "assets/xiii-death.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Damages all enemies in the room significantly.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XIV Temperance",
+			"props": {
+				"id": "Temperance",
+				"img": {
+					"src": "assets/xiv-temperance.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nSpawns a Blood Donation Machine.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XV The Devil",
+			"props": {
+				"id": "The_Devil",
+				"img": {
+					"src": "assets/xv-the-devil.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Increases your damage by 2 until you leave the room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XVI The Tower",
+			"props": {
+				"id": "The_Tower",
+				"img": {
+					"src": "assets/xvi-the-tower.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nSpawns six troll bombs around the room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XVII The Stars",
+			"props": {
+				"id": "The_Stars",
+				"img": {
+					"src": "assets/xvii-the-stars.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Teleports the player to the Treasure Room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XVIII The Moon",
+			"props": {
+				"id": "The_Moon",
+				"img": {
+					"src": "assets/xviii-the-moon.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Teleports the player to the Secret Room.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XIX The Sun",
+			"props": {
+				"id": "The_Sun",
+				"img": {
+					"src": "assets/xix-the-sun.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Completely heals player, damages all enemies, reveals the entire map and location of special rooms for the current level and removes the effect of Curse of the Darkness.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XX Judgement",
+			"props": {
+				"id": "Judgement",
+				"img": {
+					"src": "assets/xx-judgement.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Spawns a beggar.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XXI The World",
+			"props": {
+				"id": "The_World",
+				"img": {
+					"src": "assets/xxi-the-world.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nReveals the entire map and location of all special rooms for the current level and removes the effect of Curse of the Darkness.",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Joker",
+			"props": {
+				"id": "The_Joker",
+				"img": {
+					"src": "assets/the-joker.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nTransports you to the Devil Room.",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "2 of Hearts",
+			"props": {
+				"id": "2_of_Hearts",
+				"img": {
+					"src": "assets/2-of-hearts.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nDoubles your Hearts (up to full health).",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "2 of Spades",
+			"props": {
+				"id": "2_of_Spades",
+				"img": {
+					"src": "assets/2-of-spades.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "\nDoubles the number of Keys you currently have.",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "2 of Clubs",
+			"props": {
+				"id": "2_of_Clubs",
+				"img": {
+					"src": "assets/2-of-clubs.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Doubles the number of Bombs you currently have.",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "2 of Diamonds",
+			"props": {
+				"id": "2_of_Diamonds",
+				"img": {
+					"src": "assets/2-of-diamonds.png",
+					"width": 77,
+					"height": 113
+				},
+				"fields": {
+					"effect": "Doubles the number of Coins you currently have.",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		}
+	],
+	"attrs": [
+		{
+			"pointer": "/props/fields/Added in"
+		}
+	]
+}

@@ -1,0 +1,486 @@
+{
+	"rankings": [
+		{
+			"title": "Binding of Isaac - Trinkets",
+			"state": "m7LQIHuh4SSGSQsN7jCITmLl5J7EzMQuOkVCUER2sjAv3xRGITl-KTEBSRaGSVzybDyTZMSlFSdxKAAA"
+		}
+	],
+	"items": [
+		{
+			"name": "???'s Soul",
+			"props": {
+				"id": "???'s_Soul",
+				"img": {
+					"src": "assets/xxx-s-soul.png",
+					"width": 60,
+					"height": 70
+				},
+				"fields": {
+					"effect": "Gives you a Familiar that looks like Brother Bobby and floats slowly around the room on a pattern similar to The Peeper, shooting long-range spectral homing tears that have high Shot Speed.\nIf you have other familiars, they will follow ???'s Soul instead of Isaac. This does not include Orbitals, Blue Flies, or stage 3/4 Meat Boy and the body created by The Pinking Shears."
+				}
+			}
+		},
+		{
+			"name": "Ace Of Spades",
+			"props": {
+				"id": "Ace_Of_Spades",
+				"img": {
+					"src": "assets/ace-of-spades.png",
+					"width": 55,
+					"height": 74
+				},
+				"fields": {
+					"effect": "Increases the chance of Tarot Cards or Suit Cards dropping after clearing a room, and the chance of finding Cards when opening a Chest."
+				}
+			}
+		},
+		{
+			"name": "Bloody Penny",
+			"props": {
+				"id": "Bloody_Penny",
+				"img": {
+					"src": "assets/bloody-penny.png",
+					"width": 70,
+					"height": 32
+				},
+				"fields": {
+					"effect": "Gives a 50% chance to drop a Half Heart when money is collected."
+				}
+			}
+		},
+		{
+			"name": "Burnt Penny",
+			"props": {
+				"id": "Burnt_Penny",
+				"img": {
+					"src": "assets/burnt-penny.png",
+					"width": 65,
+					"height": 59
+				},
+				"fields": {
+					"effect": "Gives a 50% chance to drop a bomb when money is collected."
+				}
+			}
+		},
+		{
+			"name": "Cain's Eye",
+			"props": {
+				"id": "Cain's_Eye",
+				"img": {
+					"src": "assets/cain-s-eye.png",
+					"width": 50,
+					"height": 47
+				},
+				"fields": {
+					"effect": "When starting a floor, 25% chance to get the The Compass effect for the duration of a floor."
+				}
+			}
+		},
+		{
+			"name": "Cancer",
+			"props": {
+				"id": "Cancer",
+				"img": {
+					"src": "assets/cancer.png",
+					"width": 60,
+					"height": 71
+				},
+				"fields": {
+					"effect": "Decreases Tears Delay by 2."
+				}
+			}
+		},
+		{
+			"name": "Child's Heart",
+			"props": {
+				"id": "Child's_Heart",
+				"img": {
+					"src": "assets/child-s-heart.png",
+					"width": 50,
+					"height": 57
+				},
+				"fields": {
+					"effect": "Increases the chance of a Heart dropping after clearing a room, and the chance of finding a Heart when opening a Chest."
+				}
+			}
+		},
+		{
+			"name": "Counterfeit Penny",
+			"props": {
+				"id": "Counterfeit_Penny",
+				"img": {
+					"src": "assets/counterfeit-penny.png",
+					"width": 55,
+					"height": 38
+				},
+				"fields": {
+					"effect": "Gives a 50% chance of increasing the value of every coin pickup by one. Can only be found in Golden Poop."
+				}
+			}
+		},
+		{
+			"name": "Cursed Skull",
+			"props": {
+				"id": "Cursed_Skull",
+				"img": {
+					"src": "assets/cursed-skull.png",
+					"width": 60,
+					"height": 59
+				},
+				"fields": {
+					"effect": "If Isaac has less than one full Red Heart after taking damage, he will be immediately teleported to the last cleared room he was in."
+				}
+			}
+		},
+		{
+			"name": "Curved Horn",
+			"props": {
+				"id": "Curved_Horn",
+				"img": {
+					"src": "assets/curved-horn.png",
+					"width": 40,
+					"height": 65
+				},
+				"fields": {
+					"effect": "Increases Effective Damage by 2."
+				}
+			}
+		},
+		{
+			"name": "Eve's Bird Foot",
+			"props": {
+				"id": "Eve's_Bird",
+				"img": {
+					"src": "assets/eve-s-bird-foot.png",
+					"width": 42,
+					"height": 55
+				},
+				"fields": {
+					"effect": "5% chance to spawn a Dead Bird familiar for the current room each time an enemy dies."
+				}
+			}
+		},
+		{
+			"name": "Flat Penny",
+			"props": {
+				"id": "Flat_Penny",
+				"img": {
+					"src": "assets/flat-penny.png",
+					"width": 60,
+					"height": 14
+				},
+				"fields": {
+					"effect": "Gives a 50% chance of spawning a Key upon collecting a penny."
+				}
+			}
+		},
+		{
+			"name": "Fish Head",
+			"props": {
+				"id": "Fish_Head",
+				"img": {
+					"src": "assets/fish-head.png",
+					"width": 55,
+					"height": 57
+				},
+				"fields": {
+					"effect": "Attack flies spawn every time Isaac gets hit."
+				}
+			}
+		},
+		{
+			"name": "Game Squid",
+			"props": {
+				"id": "Game_Squid",
+				"img": {
+					"src": "assets/game-squid.png",
+					"width": 45,
+					"height": 46
+				},
+				"fields": {
+					"effect": "10% chance to fire a tear that slows enemies down."
+				}
+			}
+		},
+		{
+			"name": "Goat Hoof",
+			"props": {
+				"id": "Goat_Hoof",
+				"img": {
+					"src": "assets/goat-hoof.png",
+					"width": 45,
+					"height": 55
+				},
+				"fields": {
+					"effect": "Increases speed by 0.15.  Can exceed normal upper bound on speed."
+				}
+			}
+		},
+		{
+			"name": "Isaac's Head",
+			"props": {
+				"id": "Isaac's_Head",
+				"img": {
+					"src": "assets/isaac-s-head.png",
+					"width": 60,
+					"height": 57
+				},
+				"fields": {
+					"effect": "Gives the player Isaac's severed head as a tear-firing familiar.  Fires piercing tears."
+				}
+			}
+		},
+		{
+			"name": "Isaac's Fork",
+			"props": {
+				"id": "Isaac's_Fork",
+				"img": {
+					"src": "assets/isaac-s-fork.png",
+					"width": 50,
+					"height": 52
+				},
+				"fields": {
+					"effect": "Clearing rooms may heal Isaac by 1/2 of a heart (10% chance)."
+				}
+			}
+		},
+		{
+			"name": "Judas' Tongue",
+			"props": {
+				"id": "Judas'_Tongue",
+				"img": {
+					"src": "assets/judas-tongue.png",
+					"width": 60,
+					"height": 49
+				},
+				"fields": {
+					"effect": "Items in the Devil Room only cost 1 heart. Soul heart trades still cost 3 Soul hearts. Only works if you have the trinket before revealing the Devil Room."
+				}
+			}
+		},
+		{
+			"name": "The Left Hand",
+			"props": {
+				"id": "Left_Hand",
+				"img": {
+					"src": "assets/the-left-hand.png",
+					"width": 60,
+					"height": 65
+				},
+				"fields": {
+					"effect": "Replaces all normal chests with Red Chests. Gold chests are affected as well."
+				}
+			}
+		},
+		{
+			"name": "Liberty Cap",
+			"props": {
+				"id": "Liberty_Cap",
+				"img": {
+					"src": "assets/liberty-cap.png",
+					"width": 50,
+					"height": 55
+				},
+				"fields": {
+					"effect": "25% chance of giving Isaac a random passive effect from Mushrooms as well as its corresponding visual effect upon entering a room.\nBug v1.48: Can also randomly add The Compass effect."
+				}
+			}
+		},
+		{
+			"name": "Lucky Toe",
+			"props": {
+				"id": "Lucky_Toe",
+				"img": {
+					"src": "assets/lucky-toe.png",
+					"width": 50,
+					"height": 58
+				},
+				"fields": {
+					"effect": "Increases the chance to get a drop after clearing a room. Although the Luck stat also influences this, it does not actually increase the Luck stat.\nThe increase in drop chance is applied before the effect of Guppy's Tail."
+				}
+			}
+		},
+		{
+			"name": "Maggy's Faith",
+			"props": {
+				"id": "Maggy's_Faith",
+				"img": {
+					"src": "assets/maggy-s-faith.png",
+					"width": 60,
+					"height": 62
+				},
+				"fields": {
+					"effect": "Gives an eternal heart at the start of every floor."
+				}
+			}
+		},
+		{
+			"name": "Match Stick",
+			"props": {
+				"id": "Match_Stick",
+				"img": {
+					"src": "assets/match-stick.png",
+					"width": 40,
+					"height": 71
+				},
+				"fields": {
+					"effect": "Increases the chance of Bombs dropping after clearing a room, and the chance of finding Bombs when opening a Chest."
+				}
+			}
+		},
+		{
+			"name": "A Missing Page",
+			"props": {
+				"id": "A_Missing_Page",
+				"img": {
+					"src": "assets/a-missing-page.png",
+					"width": 55,
+					"height": 66
+				},
+				"fields": {
+					"effect": "5% chance to induce The Necronomicon's effect upon taking damage."
+				}
+			}
+		},
+		{
+			"name": "Mom's Pearl",
+			"props": {
+				"id": "Mom's_Pearl",
+				"img": {
+					"src": "assets/mom-s-pearl.png",
+					"width": 45,
+					"height": 41
+				},
+				"fields": {
+					"effect": "Grants a secondary 10% chance of any non-specific Heart drop turning into a Soul Heart."
+				}
+			}
+		},
+		{
+			"name": "Pinky Eye",
+			"props": {
+				"id": "Pinky_Eye",
+				"img": {
+					"src": "assets/pinky-eye.png",
+					"width": 45,
+					"height": 39
+				},
+				"fields": {
+					"effect": "10% chance to fire a poison tear."
+				}
+			}
+		},
+		{
+			"name": "The Polaroid",
+			"props": {
+				"id": "The_Polaroid",
+				"img": {
+					"src": "assets/the-polaroid.png",
+					"width": 65,
+					"height": 65
+				},
+				"fields": {
+					"effect": "If Isaac survives damage with less than one red heart, he will receive a shield similar to the Book Of Shadows for 5 seconds. This effect ignores other heart types and thus always works for ???.\nHolding The Polaroid while opening the big chest at the end of the Cathedral will allow you to continue to The Chest."
+				}
+			}
+		},
+		{
+			"name": "Push Pin",
+			"props": {
+				"id": "Push_Pin",
+				"img": {
+					"src": "assets/push-pin.png",
+					"width": 35,
+					"height": 62
+				},
+				"fields": {
+					"effect": "10% chance to fire a spectral and piercing tear."
+				}
+			}
+		},
+		{
+			"name": "Red Patch",
+			"props": {
+				"id": "Red_Patch",
+				"img": {
+					"src": "assets/red-patch.png",
+					"width": 55,
+					"height": 59
+				},
+				"fields": {
+					"effect": "20% chance to increase damage upon taking hit, as if Razor Blade was used."
+				}
+			}
+		},
+		{
+			"name": "Rusted Key",
+			"props": {
+				"id": "Rusted_Key",
+				"img": {
+					"src": "assets/rusted-key.png",
+					"width": 40,
+					"height": 55
+				},
+				"fields": {
+					"effect": "Improves the chance of Keys and Golden Chests dropping after clearing a room, and chance of finding a Key when opening a Chest.(see info)"
+				}
+			}
+		},
+		{
+			"name": "Safety Cap",
+			"props": {
+				"id": "Safety_Cap",
+				"img": {
+					"src": "assets/safety-cap.png",
+					"width": 55,
+					"height": 42
+				},
+				"fields": {
+					"effect": "Improves the chance of Pills dropping after clearing a room, and chance of finding a Pill when opening a Chest."
+				}
+			}
+		},
+		{
+			"name": "Samson's Lock",
+			"props": {
+				"id": "Samson's_Lock",
+				"img": {
+					"src": "assets/samson-s-lock.png",
+					"width": 48,
+					"height": 61
+				},
+				"fields": {
+					"effect": "1/15 chance to increase damage by 0.5 for the current room each time an enemy dies."
+				}
+			}
+		},
+		{
+			"name": "The Tick",
+			"props": {
+				"id": "The_Tick",
+				"img": {
+					"src": "assets/the-tick.png",
+					"width": 55,
+					"height": 55
+				},
+				"fields": {
+					"effect": "Drain 15% health of each enemy with more than 60 HP (ie. most bosses).\nAlso restores one red heart of Isaac whenever he enters an uncleared boss room.\nThe Tick is stuck into Isaac's head and cannot be swapped out for another trinket."
+				}
+			}
+		},
+		{
+			"name": "Umbilical Cord",
+			"props": {
+				"id": "Umbilical_Cord",
+				"img": {
+					"src": "assets/umbilical-cord.png",
+					"width": 55,
+					"height": 74
+				},
+				"fields": {
+					"effect": "When Isaac's health is brought to half a red heart, a Little Steve familiar spawns."
+				}
+			}
+		}
+	]
+}

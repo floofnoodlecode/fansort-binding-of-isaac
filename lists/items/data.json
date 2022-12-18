@@ -1,0 +1,3206 @@
+{
+	"rankings": [
+		{
+			"title": "Binding of Isaac - Items",
+			"state": "BYDjepthGICzdbZte-lsG7Vt27bd5_2SGqltG3_vnkEPppdm0m-YzZjMRScm_aYumBlaPwYxKe77NFrifN-ID-XCWIz4M2QgJx5T0k_ForWXoptCct2EbEpsmTcyRVXk7wMOBksG6WedfJZCMyLkdZR2k45zFkYbRtJppi7RnuJ35KnoWGeEUVaYFbtvdCqK_r54di9hl6Q-vo9Sn_94sEpBzVuGafI7vTck8KlGKcvM0UiN_P-ww8nljgRTvVNoY_qH0JWpHN9T8fXTS_nyinEWqH2e9u8BE5TdDkt23X5w97GU7xoG-tCs5OgZsuTKfjlrphh4crz20MVwz4BTl2lXj7yvKfNLJ417aMBI_ZHrOnXrF716etTDuyfOazcubDusrrJG5RY"
+		}
+	],
+	"items": [
+		{
+			"name": "Anarchist Cookbook",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Anarchist_Cookbook",
+				"img": {
+					"src": "assets/anarchist-cookbook.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Spawns six troll bombs around the room.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "The Bean",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Bean",
+				"img": {
+					"src": "assets/the-bean.png",
+					"width": 47,
+					"height": 58
+				},
+				"fields": {
+					"effect": "Causes Isaac to have bad gas, poisoning any enemy in close vicinity.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "1"
+				}
+			}
+		},
+		{
+			"name": "Bob's Rotten Head",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Bob%27s_Rotten_Head",
+				"img": {
+					"src": "assets/bob-s-rotten-head.png",
+					"width": 60,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Throws a bomb in the direction Isaac's facing. It does extreme damage, poisons the enemy for 5 seconds, and destroys rocks.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "The Bible",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Bible",
+				"img": {
+					"src": "assets/the-bible.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Upon activation, Isaac gains Flight, allowing him to pass over all obstacles in the current room. Instantly kills Mom, Mom's Heart and It Lives when activated, will kill Isaac when activated while fighting Satan, Isaac or ??? unless he has The Wafer.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "The Book Of Belial",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Book_Of_Belial",
+				"img": {
+					"src": "assets/the-book-of-belial.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Adds 2 points of damage for the current room. Damage is further multiplied by 1.5x with the Blood Of The Martyr item. Also increases chances of a Devil Room spawning by 25%.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Book Of Revelations",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Book_Of_Revelations",
+				"img": {
+					"src": "assets/book-of-revelations.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Adds 1 Soul Heart and makes the next boss a Horseman (except on XL Floors and on floors with fixed bosses such as Mom). Increases chances of a Devil Room spawning by 35%.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "Book Of Shadows",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Book_Of_Shadows",
+				"img": {
+					"src": "assets/book-of-shadows.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Grants Isaac invulnerability for 10 seconds.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "The Book Of Sin",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Book_Of_Sin",
+				"img": {
+					"src": "assets/the-book-of-sin.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Spawns a random Pick Up, Pill or Card.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "4"
+				}
+			}
+		},
+		{
+			"name": "Dead Sea Scrolls",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dead_Sea_Scrolls",
+				"img": {
+					"src": "assets/dead-sea-scrolls.png",
+					"width": 52,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Uses a random Activated Item.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "4"
+				}
+			}
+		},
+		{
+			"name": "Deck of Cards",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Deck_of_Cards",
+				"img": {
+					"src": "assets/deck-of-cards.png",
+					"width": 64,
+					"height": 62
+				},
+				"fields": {
+					"effect": "Gives Isaac a random Tarot Card.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "The Dice",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Dice",
+				"img": {
+					"src": "assets/the-dice.png",
+					"width": 61,
+					"height": 52
+				},
+				"fields": {
+					"effect": "Allows Isaac to re-roll collectible items in the current room into other items, depending on the current room's Item Pool.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Doctor's Remote",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Doctor%27s_Remote",
+				"img": {
+					"src": "assets/doctor-s-remote.png",
+					"width": 43,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Sets a big red target on the ground (similar to the Epic Fetus item) which can be controlled with the arrow keys or the mouse. After 6 seconds or by pressing space again, a huge explosive missile hits it, which damages all enemies caught in its blast radius.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Forget Me Now",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Forget_Me_Now",
+				"img": {
+					"src": "assets/forget-me-now.png",
+					"width": 64,
+					"height": 52
+				},
+				"fields": {
+					"effect": "When activated, the level ends and is freshly regenerated with new rooms, monsters, and items. Disappears after use.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "One-time use"
+				}
+			}
+		},
+		{
+			"name": "The Gamekid",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Gamekid",
+				"img": {
+					"src": "assets/the-gamekid.png",
+					"width": 49,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Isaac turns into a Pac-Man-like creature for 5 seconds, gaining invincibility, +0.28 Speed, and the ability to damage enemies by touch, restoring a half-heart of health for every 2 enemies killed. Enemies will also turn blue and start fleeing from Isaac for the duration of the effect.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "The Hourglass",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Hourglass",
+				"img": {
+					"src": "assets/the-hourglass.png",
+					"width": 45,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Upon activation, enemies and their projectiles are slowed down for 7.67 seconds.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "2"
+				}
+			}
+		},
+		{
+			"name": "Kamikaze!",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Kamikaze!",
+				"img": {
+					"src": "assets/kamikaze.png",
+					"width": 52,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Creates an explosion in the same area as Isaac, dealing one heart of damage to him and also damaging all enemies caught in the blast radius.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "0"
+				}
+			}
+		},
+		{
+			"name": "Lemon Mishap",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Lemon_Mishap",
+				"img": {
+					"src": "assets/lemon-mishap.png",
+					"width": 63,
+					"height": 63
+				},
+				"fields": {
+					"effect": "Creates a small yellow pool of Creep, which damages enemies that cross it.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "2"
+				}
+			}
+		},
+		{
+			"name": "Mom's Bottle Of Pills",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Bottle_Of_Pills",
+				"img": {
+					"src": "assets/mom-s-bottle-of-pills.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac a random Pill, and will cause him to drop any held Q-slot item (If any). The player will only receive six different pill types in one playthrough.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "Mom's Bra",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Bra",
+				"img": {
+					"src": "assets/mom-s-bra.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Causes Isaac to wear a bra on his head for a short period of time, which freezes enemies for 5 seconds.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Mom's Pad",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Pad",
+				"img": {
+					"src": "assets/mom-s-pad.png",
+					"width": 34,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Causes enemies to back away from Isaac for 5 seconds.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Monster Manuel",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Monster_Manuel",
+				"img": {
+					"src": "assets/monster-manuel.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Summons a random familiar for the current room only, even if it is locked.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "4"
+				}
+			}
+		},
+		{
+			"name": "Monstro's Tooth",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Monstro%27s_Tooth",
+				"img": {
+					"src": "assets/monstro-s-tooth.png",
+					"width": 49,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Monstro jumps onto a random enemy, doing damage. Cannot be used in a fight against Monstro, but can be used against Monstro II.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Mr. Boom",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mr._Boom",
+				"img": {
+					"src": "assets/mr-boom.png",
+					"width": 47,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Drops a large bomb.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "2"
+				}
+			}
+		},
+		{
+			"name": "My Little Unicorn",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/My_Little_Unicorn",
+				"img": {
+					"src": "assets/my-little-unicorn.png",
+					"width": 33,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Grants Isaac invincibility for a short period of time. Isaac cannot fire tears during the invincibility effect, but he can damage enemies by touch. Increases Speed by 0.28 for the duration of the effect.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "The Nail",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Nail",
+				"img": {
+					"src": "assets/the-nail.png",
+					"width": 30,
+					"height": 64
+				},
+				"fields": {
+					"effect": "On activation, adds one Soul Heart and allows the breaking of Rocks and damaging enemies by simply walking over them.\nIncreases Damage by 0.7 and decreases Speed by 0.18 for current room.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "The Necronomicon",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Necronomicon",
+				"img": {
+					"src": "assets/the-necronomicon.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Damages all enemies in the room significantly.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "A Pony",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/A_Pony",
+				"img": {
+					"src": "assets/a-pony.png",
+					"width": 49,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Upon use, Isaac will charge in the direction selected, and will become invincible during the charge, allowing him to damage enemies by touch.\nWhile equipped, passively increases Speed to a minimum of 1.5, and grants Isaac Flight.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "4"
+				}
+			}
+		},
+		{
+			"name": "The Poop",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Poop",
+				"img": {
+					"src": "assets/the-poop.png",
+					"width": 58,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Drops a pile of poop at his current location. This pile of poop may yield Hearts or Coins like regular poop.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "1"
+				}
+			}
+		},
+		{
+			"name": "Razor Blade",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Razor_Blade",
+				"img": {
+					"src": "assets/razor-blade.png",
+					"width": 51,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Deals 1 Heart of damage to Isaac, which increases damage for the current room.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "0"
+				}
+			}
+		},
+		{
+			"name": "The Pinking Shears",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Pinking_Shears",
+				"img": {
+					"src": "assets/the-pinking-shears.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Separates Isaac's head and body for the current room. Isaac's head will be controlled, which now has Flight, while his body will seek out enemies to attack by contact damage.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "Shoop Da Whoop!",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Shoop_Da_Whoop!",
+				"img": {
+					"src": "assets/shoop-da-whoop.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Fires a laser from Isaac's mouth.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Tammy's Head",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Tammy%27s_Head",
+				"img": {
+					"src": "assets/tammy-s-head.png",
+					"width": 52,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Shoots 10 tears in a circle around Isaac, which retain the size (damage), shot speed, and special effects (such as Poison) of Isaac's tears. The tears are not affected by tear-replacing items like Brimstone.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "1"
+				}
+			}
+		},
+		{
+			"name": "Teleport!",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Teleport!",
+				"img": {
+					"src": "assets/teleport.png",
+					"width": 43,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Teleports Isaac to a random room on the current floor.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "2"
+				}
+			}
+		},
+		{
+			"name": "We Need To Go Deeper!",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/We_Need_To_Go_Deeper!",
+				"img": {
+					"src": "assets/we-need-to-go-deeper.png",
+					"width": 33,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Creates a trapdoor to go to the next floor. If used in The Womb, it will create a trapdoor to Sheol, even if the player hasn't unlocked it. \nDoes not work in Sheol, The Cathedral, or The Chest.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "Yum Heart",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Yum_Heart",
+				"img": {
+					"src": "assets/yum-heart.png",
+					"width": 64,
+					"height": 61
+				},
+				"fields": {
+					"effect": "Restores 1 whole heart.",
+					"Type": "Active",
+					"Added in": "Initial Release",
+					"Recharge Time": "4"
+				}
+			}
+		},
+		{
+			"name": "Best Friend",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Best_Friend",
+				"img": {
+					"src": "assets/best-friend.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Deploys a decoy Isaac that eventually explodes with an increased blast radius.\nLike all explosive attacks, the explosion can hurt Isaac if he is within the blast radius.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "3"
+				}
+			}
+		},
+		{
+			"name": "Blood Rights",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Blood_Rights",
+				"img": {
+					"src": "assets/blood-rights.png",
+					"width": 64,
+					"height": 55
+				},
+				"fields": {
+					"effect": "Deals a half-heart of damage to Isaac, which damages all enemies in the room.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "0"
+				}
+			}
+		},
+		{
+			"name": "The Candle",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Candle",
+				"img": {
+					"src": "assets/the-candle.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Throws out a blue flame that can pass over gaps (but not through rocks) that damages anything in its path.\nRecharges 3 seconds after firing.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "Recharges itself"
+				}
+			}
+		},
+		{
+			"name": "Crack The Sky",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Crack_The_Sky",
+				"img": {
+					"src": "assets/crack-the-sky.png",
+					"width": 37,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Summons multiple beams of light in random locations around the room, dealing a large amount of damage to any enemy that touches them.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "4"
+				}
+			}
+		},
+		{
+			"name": "Crystal Ball",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Crystal_Ball",
+				"img": {
+					"src": "assets/crystal-ball.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Reveals the map and drops a random Tarot Card or Soul Heart.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "D20",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/D20",
+				"img": {
+					"src": "assets/d20.png",
+					"width": 64,
+					"height": 60
+				},
+				"fields": {
+					"effect": "Randomly changes all Pick Ups in the current room.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "Dad's Key",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dad%27s_Key",
+				"img": {
+					"src": "assets/dad-s-key.png",
+					"width": 51,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Opens all doors in the current room when activated, except rooms which require a Key to open, such as Treasure Rooms and Libraries.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "2"
+				}
+			}
+		},
+		{
+			"name": "Guppy's Head",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Guppy%27s_Head",
+				"img": {
+					"src": "assets/guppy-s-head.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Spawns 2-4 Blue Flies to damage enemies.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "1"
+				}
+			}
+		},
+		{
+			"name": "Guppy's Paw",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Guppy%27s_Paw",
+				"img": {
+					"src": "assets/guppy-s-paw.png",
+					"width": 47,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Removes one Heart Container in exchange for gaining 3 Soul Hearts.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "0"
+				}
+			}
+		},
+		{
+			"name": "IV Bag",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/IV_Bag",
+				"img": {
+					"src": "assets/iv-bag.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Upon activation, Isaac loses a half-heart (one whole heart in The Womb and onwards) for a random amount of coins, similar to the Blood Donation Machine.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "0"
+				}
+			}
+		},
+		{
+			"name": "Notched Axe",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Notched_Axe",
+				"img": {
+					"src": "assets/notched-axe.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Breaks a single rock when activated.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "1"
+				}
+			}
+		},
+		{
+			"name": "Portable Slot",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Portable_Slot",
+				"img": {
+					"src": "assets/portable-slot.png",
+					"width": 64,
+					"height": 56
+				},
+				"fields": {
+					"effect": "Upon activation, 1 coin will be consumed, and a random Pick Up may drop, similar to the Slot Machine.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "0"
+				}
+			}
+		},
+		{
+			"name": "Prayer Card",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Prayer_Card",
+				"img": {
+					"src": "assets/prayer-card.png",
+					"width": 49,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Grants half an Eternal Heart per use.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "Remote Detonator",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Remote_Detonator",
+				"img": {
+					"src": "assets/remote-detonator.png",
+					"width": 60,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Bombs you place explode only when you use this item.\nGives 5 bombs.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "0"
+				}
+			}
+		},
+		{
+			"name": "Spider Butt",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Spider_Butt",
+				"img": {
+					"src": "assets/spider-butt.png",
+					"width": 64,
+					"height": 54
+				},
+				"fields": {
+					"effect": "Damages all enemies in the room and and slows them and their projectiles down for 2.5 seconds (similar to The Hourglass).",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "2"
+				}
+			}
+		},
+		{
+			"name": "Telepathy For Dummies",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Telepathy_For_Dummies",
+				"img": {
+					"src": "assets/telepathy-for-dummies.png",
+					"width": 55,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac homing tears for the current room. (Identical to Spoon Bender)",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "2"
+				}
+			}
+		},
+		{
+			"name": "White Pony",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/White_Pony",
+				"img": {
+					"src": "assets/white-pony.png",
+					"width": 49,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Upon use, Isaac will become invincible and charge in the direction selected, dealing damage to monsters touched. In addition, beams of light (similar to Crack The Sky) drop down in random locations around the room, damaging any enemies that touch them.\nWhile equipped, increases Speed up to a minimum of 1.5, and grants Isaac Flight.",
+					"Type": "Active",
+					"Added in": "Wrath of the Lamb",
+					"Recharge Time": "6"
+				}
+			}
+		},
+		{
+			"name": "<3",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Less_Than_Three",
+				"img": {
+					"src": "assets/3.png",
+					"width": 64,
+					"height": 61
+				},
+				"fields": {
+					"effect": "Increases available heart containers by 1 and restores all health.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "1UP",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/1UP",
+				"img": {
+					"src": "assets/1up.png",
+					"width": 61,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives an extra life. Upon death, you will respawn in the previous room with full health and lose the 1UP.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "9 Volt",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/9_Volt",
+				"img": {
+					"src": "assets/9-volt.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Leaves Isaac with two bars already charged after using an item.\nUpon pickup, Isaac's current activated item will be fully charged.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Battery",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Battery",
+				"img": {
+					"src": "assets/the-battery.png",
+					"width": 49,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac an extra charge every 15 seconds per room, up to a maximum of 3 charges.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Belt",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Belt",
+				"img": {
+					"src": "assets/the-belt.png",
+					"width": 49,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Speed by 2.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Blood Bag",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Blood_Bag",
+				"img": {
+					"src": "assets/blood-bag.png",
+					"width": 52,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases HP by 1, Speed by 0.3, and restores 4 hearts.\nMore than one can be obtained during a same playthrough",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Blood Of The Martyr",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Blood_Of_The_Martyr",
+				"img": {
+					"src": "assets/blood-of-the-martyr.png",
+					"width": 64,
+					"height": 40
+				},
+				"fields": {
+					"effect": "Increases Damage by 1, and turns Isaac's tears into blood tears. If collected with the The Book of Belial, damage will also be multiplied by 1.5x upon activation.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Bobby-Bomb",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Bobby-Bomb",
+				"img": {
+					"src": "assets/bobby-bomb.png",
+					"width": 57,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac 5 Bombs, and causes all dropped bombs to home towards the closest enemy.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Bomb Bag",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Bomb_Bag",
+				"img": {
+					"src": "assets/bomb-bag.png",
+					"width": 50,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Isaac is followed by a small bag that drops a Bomb, 1+1 Free, or a Troll Bomb every 3 rooms.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Boom!",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Boom!",
+				"img": {
+					"src": "assets/boom.png",
+					"width": 52,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives 10 bombs.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Breakfast",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Breakfast",
+				"img": {
+					"src": "assets/breakfast.png",
+					"width": 59,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases HP by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Brimstone",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Brimstone",
+				"img": {
+					"src": "assets/brimstone.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Changes tears to a chargeable laser, which pierces all objects in its path. Also multiplies damage by 3.\nIt can only be fired after a short charge-up period.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Brother Bobby",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Brother_Bobby",
+				"img": {
+					"src": "assets/brother-bobby.png",
+					"width": 46,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Follows Isaac around shooting normal tears.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Bucket Of Lard",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Bucket_Of_Lard",
+				"img": {
+					"src": "assets/bucket-of-lard.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives two empty heart containers, heals by half a heart but decreases speed by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Charm Of The Vampire",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Charm_Of_The_Vampire",
+				"img": {
+					"src": "assets/charm-of-the-vampire.png",
+					"width": 64,
+					"height": 51
+				},
+				"fields": {
+					"effect": "Killing 13 monsters heals the player for half a heart.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Chocolate Milk",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Chocolate_Milk",
+				"img": {
+					"src": "assets/chocolate-milk.png",
+					"width": 44,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Allows Isaac to charge shots, making them a lot stronger and larger, and turns them brown. Tears will no longer automatically fire while holding down arrow keys.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Common Cold",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Common_Cold",
+				"img": {
+					"src": "assets/the-common-cold.png",
+					"width": 64,
+					"height": 59
+				},
+				"fields": {
+					"effect": "Gives Isaac's shot a chance of poisoning enemies for a 2.5 seconds, and turns tears green.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Compass",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Compass",
+				"img": {
+					"src": "assets/the-compass.png",
+					"width": 64,
+					"height": 61
+				},
+				"fields": {
+					"effect": "Reveals all special rooms (Boss Rooms, Treasure Rooms, Shops, etc.), but not Secret Rooms/Super Secret Rooms or regular rooms.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Cube Of Meat",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Cube_Of_Meat",
+				"img": {
+					"src": "assets/cube-of-meat.png",
+					"width": 64,
+					"height": 57
+				},
+				"fields": {
+					"effect": "The first pick up gives a floating cube similar to a Pretty Fly that damages enemies and blocks shots.\nThe second pick up changes it into a floating head that shoots red tears and blocks shots.\nThe third pick up changes it into a humanoid Meat Boy, who walks around chasing enemies, but no longer shoot projectiles.\n(This stage and the last stage can push bombs around, which can damage Isaac if the player is not careful)\nThe fourth pick up increases his size and damage.\nA fifth pick up will create another cube of meat orbital which then advances to another Super Meat Boy. However, it is not possible to have three or more Meat Boys, as the ninth cube will simply disappear on pickup.\n ",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Cupid's Arrow",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Cupid%27s_Arrow",
+				"img": {
+					"src": "assets/cupid-s-arrow.png",
+					"width": 35,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac piercing tears that can travel through enemies. Removes knockback effect of tears.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Dead Bird",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dead_Bird",
+				"img": {
+					"src": "assets/dead-bird.png",
+					"width": 64,
+					"height": 56
+				},
+				"fields": {
+					"effect": "Whenever Isaac takes damage, the bird starts attacking nearby enemies while flying over obstacles. The effect only lasts for the current room.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Dead Cat",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dead_Cat",
+				"img": {
+					"src": "assets/dead-cat.png",
+					"width": 64,
+					"height": 46
+				},
+				"fields": {
+					"effect": "Your HP is set to 1.\nYou are followed by a floating cat head and have 9 lives (these still count as deaths on the statistics screen).\nYou can increase your max HP as normal, but after each death it will reset to 1 again.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Dessert",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dessert",
+				"img": {
+					"src": "assets/dessert.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases available heart containers by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Dinner",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dinner",
+				"img": {
+					"src": "assets/dinner.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases available heart containers by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Distant Admiration",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Distant_Admiration",
+				"img": {
+					"src": "assets/distant-admiration.png",
+					"width": 64,
+					"height": 25
+				},
+				"fields": {
+					"effect": "A red attack fly circles further out than the Halo of Flies/Pretty Flies, but closer than Forever Alone.\nDeals more damage than Forever Alone.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Demon Baby",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Demon_Baby",
+				"img": {
+					"src": "assets/demon-baby.png",
+					"width": 43,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Follows Isaac and automatically fires at enemies in its reach.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "A Dollar",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/A_Dollar",
+				"img": {
+					"src": "assets/a-dollar.png",
+					"width": 56,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac 99 coins. \nCan be found multiple times in a single playthrough.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Dr. Fetus",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dr._Fetus",
+				"img": {
+					"src": "assets/dr-fetus.png",
+					"width": 46,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Replaces Isaac's shot with a bomb.\nOnly one bomb can be shot at a time, and it will slide a fixed range before exploding.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Forever Alone",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Forever_Alone",
+				"img": {
+					"src": "assets/forever-alone.png",
+					"width": 64,
+					"height": 22
+				},
+				"fields": {
+					"effect": "Spawns a blue attack fly that orbits a long distance from Isaac.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Growth Hormones",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Growth_Hormones",
+				"img": {
+					"src": "assets/growth-hormones.png",
+					"width": 36,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increase Speed and Damage by 2 each.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Guardian Angel",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Guardian_Angel",
+				"img": {
+					"src": "assets/guardian-angel.png",
+					"width": 64,
+					"height": 44
+				},
+				"fields": {
+					"effect": "Spawns a Guardian Angel that orbits Isaac.\nDoes damage on touch, blocks shots and doubles the speed of other orbitals.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Halo",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Halo",
+				"img": {
+					"src": "assets/the-halo.png",
+					"width": 64,
+					"height": 26
+				},
+				"fields": {
+					"effect": "Increases all stats (Including Heart Containers) by one.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Halo Of Flies",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Halo_Of_Flies",
+				"img": {
+					"src": "assets/halo-of-flies.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Grants 2 Fly orbitals that circle Isaac.\nBlocks shots and damages Fly enemies on touch.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Inner Eye",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Inner_Eye",
+				"img": {
+					"src": "assets/the-inner-eye.png",
+					"width": 63,
+					"height": 61
+				},
+				"fields": {
+					"effect": "Gives Isaac a triple shot, sets Tears to minimum",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Ladder",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Ladder",
+				"img": {
+					"src": "assets/the-ladder.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Allows Isaac to walk across gaps one square across by automatically placing a ladder between the two walkables.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Little C.H.A.D.",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Little_C.H.A.D.",
+				"img": {
+					"src": "assets/little-c-h-a-d.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Isaac is followed by Little C.H.A.D, who will drop a half Heart every 2 rooms.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Little Chubby",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Little_Chubby",
+				"img": {
+					"src": "assets/little-chubby.png",
+					"width": 48,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Adds a small grub that follows Isaac.\nCharges forward and deals touch damage to any enemies in her path. Will attack when the Isaac attacks with a moderate cooldown time before she can attack again.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Little Gish",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Little_Gish",
+				"img": {
+					"src": "assets/little-gish.png",
+					"width": 64,
+					"height": 62
+				},
+				"fields": {
+					"effect": "Follows Isaac around shooting tar projectiles that reduce enemies' movement speed, shot speed, and range for a few seconds.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Little Steve",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Little_Steve",
+				"img": {
+					"src": "assets/little-steve.png",
+					"width": 45,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Follows Isaac around, shooting homing projectiles.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Loki's Horns",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Loki%27s_Horns",
+				"img": {
+					"src": "assets/loki-s-horns.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives a random chance for projectiles to fire in a cross (+) pattern.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Lord Of The Pit",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Lord_Of_The_Pit",
+				"img": {
+					"src": "assets/lord-of-the-pit.png",
+					"width": 44,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Isaac can fly over all obstacles, including damage floors, spikes, rocks, and pits. Increases speed by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Lucky Foot",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Lucky_Foot",
+				"img": {
+					"src": "assets/lucky-foot.png",
+					"width": 59,
+					"height": 64
+				},
+				"fields": {
+					"effect": "All Pills picked up will have positive or neutral effects (same effect as the PHD, but without pill identification and neutral pills). Increases the chance of getting Pick Ups from clearing a room or from Poop and Fireplaces. Increases the chance of winning the Shell game in the Arcade room from 33% to roughly 50%. Increases the chances of getting items from Golden Chests.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Lunch",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Lunch",
+				"img": {
+					"src": "assets/lunch.png",
+					"width": 51,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases available heart containers by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "A Lump Of Coal",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/A_Lump_Of_Coal",
+				"img": {
+					"src": "assets/a-lump-of-coal.png",
+					"width": 50,
+					"height": 38
+				},
+				"fields": {
+					"effect": "Increases damage of tears based on amount of time in the air. 0.14 damage per frame, or 4.2 damage per second.(tear size increases as it gets further away).",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Magic Mushroom",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Magic_Mushroom",
+				"img": {
+					"src": "assets/magic-mushroom.png",
+					"width": 61,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Fully heals Isaac, increases all Stats (excluding Rate Of Fire) by 1, and multiplies damage by 1.5x.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Magneto",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Magneto",
+				"img": {
+					"src": "assets/magneto.png",
+					"width": 56,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Pulls Pick Ups towards Isaac.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Mark",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Mark",
+				"img": {
+					"src": "assets/the-mark.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Damage by 1, Speed by 0.2, and adds one Soul Heart.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Max's Head",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Max%27s_Head",
+				"img": {
+					"src": "assets/max-s-head.png",
+					"width": 64,
+					"height": 57
+				},
+				"fields": {
+					"effect": "Increases damage by 1, and multiplies it by 1.5x.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mini Mushroom",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mini_Mushroom",
+				"img": {
+					"src": "assets/mini-mushroom.png",
+					"width": 51,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Speed and Range by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom's Contacts",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Contacts",
+				"img": {
+					"src": "assets/mom-s-contacts.png",
+					"width": 60,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac a petrifying shot that will randomly freeze enemies solid for a few seconds.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom's Eye",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Eye",
+				"img": {
+					"src": "assets/mom-s-eye.png",
+					"width": 51,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Allows Isaac to fire tears from the back of his head.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom's Heels",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Heels",
+				"img": {
+					"src": "assets/mom-s-heels.png",
+					"width": 64,
+					"height": 59
+				},
+				"fields": {
+					"effect": "Increases Range by 7.75.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom's Knife",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Knife",
+				"img": {
+					"src": "assets/mom-s-knife.png",
+					"width": 25,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Once collected, Isaac no longer shoots tears, he shoots a knife in boomerang style. The range of throw increases by charging the shot.\nCan also be used as a melee weapon while not fired.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom's Lipstick",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Lipstick",
+				"img": {
+					"src": "assets/mom-s-lipstick.png",
+					"width": 29,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Range by 7.75.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom's Underwear",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Underwear",
+				"img": {
+					"src": "assets/mom-s-underwear.png",
+					"width": 64,
+					"height": 49
+				},
+				"fields": {
+					"effect": "Increases Range by 7.75.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Money = Power",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Money_Equals_Power",
+				"img": {
+					"src": "assets/money-power.png",
+					"width": 64,
+					"height": 57
+				},
+				"fields": {
+					"effect": "Increases damage based on the number of coins the player has at the moment.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mr. Mega",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mr._Mega",
+				"img": {
+					"src": "assets/mr-mega.png",
+					"width": 60,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac 5 bombs, and makes all dropped bombs larger (Similar to the bomb dropped by Mr. Boom), which have an increased blast radius and increased damage.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "My Reflection",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/My_Reflection",
+				"img": {
+					"src": "assets/my-reflection.png",
+					"width": 52,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac's tears a boomerang effect, and sets range to default.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Number One",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Number_One",
+				"img": {
+					"src": "assets/number-one.png",
+					"width": 41,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Sets Isaac's tears to their maximum rate of fire and minimum range.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Odd Mushroom (Large)",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Odd_Mushroom_(Large)",
+				"img": {
+					"src": "assets/odd-mushroom-large.png",
+					"width": 64,
+					"height": 43
+				},
+				"fields": {
+					"effect": "Increases damage by 0.3, adds an empty Heart Container, increases range by 2.75 and reduces Speed by 0.1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Odd Mushroom (Thin)",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Odd_Mushroom_(Thin)",
+				"img": {
+					"src": "assets/odd-mushroom-thin.png",
+					"width": 25,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Speed by 1, sets Rate Of Fire to maximum while reducing Damage by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Ouija Board",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Ouija_Board",
+				"img": {
+					"src": "assets/ouija-board.png",
+					"width": 64,
+					"height": 48
+				},
+				"fields": {
+					"effect": "Turns Isaac's tears spectral, allowing them to go through rocks or obstacles.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Pact",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Pact",
+				"img": {
+					"src": "assets/the-pact.png",
+					"width": 44,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Damage by 0.5 and Rate Of Fire by 0.7. The player also gains 2 Soul Hearts.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Parasite",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Parasite",
+				"img": {
+					"src": "assets/the-parasite.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Makes the Isaac's tears split in two when they hit something.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Pentagram",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Pentagram",
+				"img": {
+					"src": "assets/pentagram.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Damage by 1 and increases chances of the Devil Room appearing by 20%..",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "PHD",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/PHD",
+				"img": {
+					"src": "assets/phd.png",
+					"width": 64,
+					"height": 49
+				},
+				"fields": {
+					"effect": "Changes negative Pill effects into positive ones. Also causes Blood Donation Machines to drop more money. Restores 2 hearts upon pickup.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "A Quarter",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/A_Quarter",
+				"img": {
+					"src": "assets/a-quarter.png",
+					"width": 64,
+					"height": 60
+				},
+				"fields": {
+					"effect": "Gives you 25 pennies.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Raw Liver",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Raw_Liver",
+				"img": {
+					"src": "assets/raw-liver.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases available Heart Containers by 2 and completely restores health.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Relic",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Relic",
+				"img": {
+					"src": "assets/the-relic.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Isaac is followed by a small blue cross that will drop a Soul Heart every 5 rooms.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Robo-Baby",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Robo-Baby",
+				"img": {
+					"src": "assets/robo-baby.png",
+					"width": 46,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Follows Isaac around, shooting enemies with an eye laser similar to Technology.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Roid Rage",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Roid_Rage",
+				"img": {
+					"src": "assets/roid-rage.png",
+					"width": 36,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Speed by 0.6. Does NOT increase range.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Rosary",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Rosary",
+				"img": {
+					"src": "assets/rosary.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Adds 3 Soul Hearts and increases the chance for The Bible to appear in the Shop.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Rotten Meat",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Rotten_Meat",
+				"img": {
+					"src": "assets/rotten-meat.png",
+					"width": 64,
+					"height": 63
+				},
+				"fields": {
+					"effect": "Increases available heart containers by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Sack Of Pennies",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Sack_Of_Pennies",
+				"img": {
+					"src": "assets/sack-of-pennies.png",
+					"width": 50,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Isaac is followed by a small bag that drops a coin every 2 rooms.\nUsually a penny, sometimes a nickel.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Sad Onion",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Sad_Onion",
+				"img": {
+					"src": "assets/the-sad-onion.png",
+					"width": 36,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases tears by 0.7.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Sister Maggy",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Sister_Maggy",
+				"img": {
+					"src": "assets/sister-maggy.png",
+					"width": 46,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Follows Isaac around shooting blood tears.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Skatole",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Skatole",
+				"img": {
+					"src": "assets/skatole.png",
+					"width": 64,
+					"height": 61
+				},
+				"fields": {
+					"effect": "All the various fly type enemies no longer harm you, shoot, or split.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Skeleton Key",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Skeleton_Key",
+				"img": {
+					"src": "assets/skeleton-key.png",
+					"width": 37,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Sets your key count to the maximum of 99.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Small Rock",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Small_Rock",
+				"img": {
+					"src": "assets/the-small-rock.png",
+					"width": 63,
+					"height": 63
+				},
+				"fields": {
+					"effect": "Increases damage by 1, increases tears by 0.2, decreases speed by 0.2.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Spelunker Hat",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Spelunker_Hat",
+				"img": {
+					"src": "assets/spelunker-hat.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Reveals the Secret Room and Top Secret Room when passing by it and reveals if a room contains a mini-boss.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Spider's Bite",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Spider%27s_Bite",
+				"img": {
+					"src": "assets/spider-s-bite.png",
+					"width": 64,
+					"height": 40
+				},
+				"fields": {
+					"effect": "Gives Isaac's shots a chance of slowing enemies for 2.5 seconds.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Spoon Bender",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Spoon_Bender",
+				"img": {
+					"src": "assets/spoon-bender.png",
+					"width": 64,
+					"height": 54
+				},
+				"fields": {
+					"effect": "Gives Isaac's shots the ability to curve towards enemies.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Steam Sale",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Steam_Sale",
+				"img": {
+					"src": "assets/steam-sale.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Reduces all Shop prices by 50%, rounded down when an item, rounded up when a pickup.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Steven",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Steven_(item)",
+				"img": {
+					"src": "assets/steven.png",
+					"width": 64,
+					"height": 59
+				},
+				"fields": {
+					"effect": "Increases Damage by 1.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Super Bandage",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Super_Bandage",
+				"img": {
+					"src": "assets/super-bandage.png",
+					"width": 64,
+					"height": 56
+				},
+				"fields": {
+					"effect": "Increases HP by 1 and gives 2 soul hearts.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Technology",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Technology",
+				"img": {
+					"src": "assets/technology.png",
+					"width": 64,
+					"height": 56
+				},
+				"fields": {
+					"effect": "Gives Isaac a laser shot with unlimited range.\nShots pierce enemies but not rocks, fire, or poop.\nShots can't be angled, and will not provide knockback.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Transcendence",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Transcendence",
+				"img": {
+					"src": "assets/transcendence.png",
+					"width": 27,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Removes Isaac's body, allowing flight over obstacles, spikes and pits.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Treasure Map",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Treasure_Map",
+				"img": {
+					"src": "assets/treasure-map.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Reveals all rooms for every floor, including the Secret Room. However, it does not reveal icons.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Virus",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Virus",
+				"img": {
+					"src": "assets/the-virus.png",
+					"width": 36,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Isaac will automatically poison any enemy that he touches.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Wafer",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Wafer",
+				"img": {
+					"src": "assets/the-wafer.png",
+					"width": 55,
+					"height": 55
+				},
+				"fields": {
+					"effect": "Turns all types of damage into a half-heart, including damage taken in The Womb and onwards.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Whore Of Babylon",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Whore_Of_Babylon",
+				"img": {
+					"src": "assets/whore-of-babylon.png",
+					"width": 64,
+					"height": 62
+				},
+				"fields": {
+					"effect": "When Isaac reaches a half-heart, he is given +2.16 damage, and his speed increases by 0.3.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Wiggle Worm",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Wiggle_Worm",
+				"img": {
+					"src": "assets/wiggle-worm.png",
+					"width": 64,
+					"height": 62
+				},
+				"fields": {
+					"effect": "Gives Isaac waving shots and increases Rate Of Fire by 0.4.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Wire Coat Hanger",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Wire_Coat_Hanger",
+				"img": {
+					"src": "assets/wire-coat-hanger.png",
+					"width": 52,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Tears by 0.7.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Wooden Spoon",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Wooden_Spoon",
+				"img": {
+					"src": "assets/wooden-spoon.png",
+					"width": 30,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases speed by 0.3.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "XRay Vision",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/XRay_Vision",
+				"img": {
+					"src": "assets/xray-vision.png",
+					"width": 64,
+					"height": 34
+				},
+				"fields": {
+					"effect": "Reveals and opens Secret Room entrances.",
+					"Type": "Passive",
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "3 Dollar Bill",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/3_Dollar_Bill",
+				"img": {
+					"src": "assets/3-dollar-bill.png",
+					"width": 56,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Effect given changes every room.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Abel",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Abel",
+				"img": {
+					"src": "assets/abel.png",
+					"width": 64,
+					"height": 62
+				},
+				"fields": {
+					"effect": "Mirrors Isaac's movements. Shoots in opposite direction to the player.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Ankh",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Ankh",
+				"img": {
+					"src": "assets/ankh.png",
+					"width": 57,
+					"height": 64
+				},
+				"fields": {
+					"effect": "When killed, respawns in the previous room as ???, regardless of the fact he is unlocked or not.\n\nAfter respawn, all future HP upgrades will be soul hearts only. Only works once.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Black Bean",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Black_Bean",
+				"img": {
+					"src": "assets/the-black-bean.png",
+					"width": 47,
+					"height": 58
+				},
+				"fields": {
+					"effect": "When taking damage, Isaac farts, causing poison damage to all enemies in range.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Bloody Lust",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Bloody_Lust",
+				"img": {
+					"src": "assets/bloody-lust.png",
+					"width": 41,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases damage each time Isaac kills an enemy for the current room. (.28 damage per kill, caps at 3.3.)",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Bob's Curse",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Bob%27s_Curse",
+				"img": {
+					"src": "assets/bob-s-curse.png",
+					"width": 60,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives 5 bombs and grants all bombs poison effect.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Box",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Box",
+				"img": {
+					"src": "assets/box.png",
+					"width": 64,
+					"height": 52
+				},
+				"fields": {
+					"effect": "Spawns 1 of each item: 1 coin, 1 key, 1 bomb, 1 heart, 1 card, 1 pill, 1 trinket.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Bum Friend",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Bum_Friend",
+				"img": {
+					"src": "assets/bum-friend.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "A portable Beggar who follows Isaac, pick up coins for himself, and occasionally drop Pick Ups. Does not spawn Collectibles. Can push around dropped bombs, similar to Meat Boy.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Cat-O-Nine-Tails",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Cat-O-Nine-Tails",
+				"img": {
+					"src": "assets/cat-o-nine-tails.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Shot Speed by 23%.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Celtic Cross",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Celtic_Cross",
+				"img": {
+					"src": "assets/celtic-cross.png",
+					"width": 58,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Has a 20% to create a protective shield around Isaac upon taking damage, which grants him invulnerability to all forms of damage for 7 seconds.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Chemical Peel",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Chemical_Peel",
+				"img": {
+					"src": "assets/chemical-peel.png",
+					"width": 48,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Tears fired from left eye do increased damage.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Daddy's Love",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Daddy%27s_Love",
+				"img": {
+					"src": "assets/daddy-s-love.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Daddy Long Legs' shadow follows Isaac and stomps on enemies.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Dead Dove",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Dead_Dove",
+				"img": {
+					"src": "assets/dead-dove.png",
+					"width": 64,
+					"height": 39
+				},
+				"fields": {
+					"effect": "Gives Isaac spectral tears and flight.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Epic Fetus",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Epic_Fetus",
+				"img": {
+					"src": "assets/epic-fetus.png",
+					"width": 44,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Tears become guided missiles (See Doctor's Remote).",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Fate",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Fate",
+				"img": {
+					"src": "assets/fate.png",
+					"width": 64,
+					"height": 56
+				},
+				"fields": {
+					"effect": "Isaac gains flight and an Eternal Heart.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Ghost Baby",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Ghost_Baby",
+				"img": {
+					"src": "assets/ghost-baby.png",
+					"width": 46,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Familiar that shoots spectral tears.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Guppy's Hair Ball",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Guppy%27s_Hair_Ball",
+				"img": {
+					"src": "assets/guppy-s-hair-ball.png",
+					"width": 64,
+					"height": 46
+				},
+				"fields": {
+					"effect": "Loosely follows behind Isaac. Can be swung like a flail by rapidly spinning Isaac in a circle.\nGrows bigger by killing enemies",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Guppy's Tail",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Guppy%27s_Tail",
+				"img": {
+					"src": "assets/guppy-s-tail.png",
+					"width": 64,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases chance of gold chests and normal chests.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Habit",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Habit",
+				"img": {
+					"src": "assets/habit.png",
+					"width": 56,
+					"height": 64
+				},
+				"fields": {
+					"effect": "When Isaac is hit, 3 points of an item's charge are filled.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Harlequin Baby",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Harlequin_Baby",
+				"img": {
+					"src": "assets/harlequin-baby.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Familiar that shoots a pair of tears diagonally every second while Isaac is firing.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Holy Grail",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Holy_Grail",
+				"img": {
+					"src": "assets/holy-grail.png",
+					"width": 56,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Adds 1 empty heart container and gives flying ability.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Holy Water",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Holy_Water",
+				"img": {
+					"src": "assets/holy-water.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "When Isaac receives damage, the bottle breaks and a puddle of blue Creep forms, which damages non-flying enemies, similar to Lemon Mishap.\nThe bottle is reformed upon entering a different room.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Infestation",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Infestation",
+				"img": {
+					"src": "assets/infestation.png",
+					"width": 54,
+					"height": 64
+				},
+				"fields": {
+					"effect": "1-3 Blue Flies randomly spawn every time Isaac gets hit.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Ipecac",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Ipecac",
+				"img": {
+					"src": "assets/ipecac.png",
+					"width": 47,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Green projectiles fired from the mouth causing poison/explosive damage.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Jesus Juice",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Jesus_Juice",
+				"img": {
+					"src": "assets/jesus-juice.png",
+					"width": 48,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases Damage by 0.5 and increases Range.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Magic 8 Ball",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Magic_8_Ball",
+				"img": {
+					"src": "assets/magic-8-ball.png",
+					"width": 64,
+					"height": 59
+				},
+				"fields": {
+					"effect": "Increases Shot Speed.\nDrops a Tarot Card when picked up.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "MEAT!",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/MEAT!",
+				"img": {
+					"src": "assets/meat.png",
+					"width": 48,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Adds a heart container, and increases damage.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Mitre",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mitre",
+				"img": {
+					"src": "assets/mitre.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Greatly increases the chance of replacing spawned hearts with soul hearts.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Mom's Coin Purse",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Coin_Purse",
+				"img": {
+					"src": "assets/mom-s-coin-purse.png",
+					"width": 64,
+					"height": 58
+				},
+				"fields": {
+					"effect": "Spawns 4 random Pills around Isaac.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Mom's Purse",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Purse",
+				"img": {
+					"src": "assets/mom-s-purse.png",
+					"width": 64,
+					"height": 48
+				},
+				"fields": {
+					"effect": "Allows Isaac to hold 1 additional trinket.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Mulligan",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Mulligan",
+				"img": {
+					"src": "assets/the-mulligan.png",
+					"width": 64,
+					"height": 61
+				},
+				"fields": {
+					"effect": "Chance to spawn Blue Flies on successful hits, which charge current target.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Mutant Spider",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mutant_Spider",
+				"img": {
+					"src": "assets/mutant-spider.png",
+					"width": 64,
+					"height": 56
+				},
+				"fields": {
+					"effect": "Shoot four tears at once, greatly reduces tear firing rate.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Pageant Boy",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Pageant_Boy",
+				"img": {
+					"src": "assets/pageant-boy.png",
+					"width": 64,
+					"height": 57
+				},
+				"fields": {
+					"effect": "Spawns several coins around Isaac.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Peeper",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Peeper",
+				"img": {
+					"src": "assets/the-peeper.png",
+					"width": 47,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Gives Isaac a familiar eye that floats around the room, damaging enemies on contact\nTears fired from left eye become red (cosmetic only)",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Polyphemus",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Polyphemus",
+				"img": {
+					"src": "assets/polyphemus.png",
+					"width": 64,
+					"height": 56
+				},
+				"fields": {
+					"effect": "Makes Isaac shoot one huge tear. Also reduces Tears to minimum. Damage increased by 4 and then multiplied by 2. \nIf tear does more damage than an enemy's life, the tear continues to travel with the extra remaining damage.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Pyro",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Pyro",
+				"img": {
+					"src": "assets/pyro.png",
+					"width": 53,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Adds 99 Bombs.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Rainbow Baby",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Rainbow_Baby",
+				"img": {
+					"src": "assets/rainbow-baby.png",
+					"width": 64,
+					"height": 57
+				},
+				"fields": {
+					"effect": "Tear Effect changes every shot.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Sacred Heart",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Sacred_Heart",
+				"img": {
+					"src": "assets/sacred-heart.png",
+					"width": 48,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Shots are larger, travel slower and home in on enemies. Damage is multiplied. (Multiplies damage by X2.3+1, -0.4 tears, -0.25 shot speed.)\nGives 1 Soul Heart and restores full Health on Pick up.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Sacrificial Dagger",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Sacrificial_Dagger",
+				"img": {
+					"src": "assets/sacrificial-dagger.png",
+					"width": 24,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Dagger orbits Isaac, very high damage.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Scapular",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Scapular",
+				"img": {
+					"src": "assets/scapular.png",
+					"width": 64,
+					"height": 58
+				},
+				"fields": {
+					"effect": "Once per room, when Isaac is reduced to his last half red Heart, the aura around his head temporarily vanishes and he is granted one Soul Heart.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "SMB Super Fan!",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/SMB_Super_Fan!",
+				"img": {
+					"src": "assets/smb-super-fan.png",
+					"width": 62,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases all stats except Speed by 1. Reduces Speed by 1.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Speed Ball",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Speed_Ball",
+				"img": {
+					"src": "assets/speed-ball.png",
+					"width": 36,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Increases movement speed and causes tears to travel faster.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Spirit Of The Night",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Spirit_Of_The_Night",
+				"img": {
+					"src": "assets/spirit-of-the-night.png",
+					"width": 60,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Grants Isaac flight and spectral tears.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Squeezy",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Squeezy",
+				"img": {
+					"src": "assets/squeezy.png",
+					"width": 46,
+					"height": 64
+				},
+				"fields": {
+					"effect": "+1 tears and spawns 2 soul hearts.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Stem Cells",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Stem_Cells",
+				"img": {
+					"src": "assets/stem-cells.png",
+					"width": 64,
+					"height": 60
+				},
+				"fields": {
+					"effect": "Adds an extra Heart Container, heals a half heart, and increases Shot Speed.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Stigmata",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Stigmata",
+				"img": {
+					"src": "assets/stigmata.png",
+					"width": 46,
+					"height": 64
+				},
+				"fields": {
+					"effect": "Boosts Isaac's damage by 0.3 and grants you one heart container.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Technology 2",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Technology_2",
+				"img": {
+					"src": "assets/technology-2.png",
+					"width": 64,
+					"height": 54
+				},
+				"fields": {
+					"effect": "Fires a continuous laser as you shoot tears. Decreases your damage by -35%.\nPierces enemies.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Toothpicks",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Toothpicks",
+				"img": {
+					"src": "assets/toothpicks.png",
+					"width": 64,
+					"height": 46
+				},
+				"fields": {
+					"effect": "Increases shot speed.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Tough Love",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Tough_Love",
+				"img": {
+					"src": "assets/tough-love.png",
+					"width": 64,
+					"height": 46
+				},
+				"fields": {
+					"effect": "Isaac randomly shoots teeth instead of tears, dealing 3.2 times his normal damage.",
+					"Type": "Passive",
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		}
+	],
+	"attrs": [
+		{
+			"pointer": "/props/fields/Type"
+		},
+		{
+			"pointer": "/props/fields/Added in"
+		}
+	]
+}

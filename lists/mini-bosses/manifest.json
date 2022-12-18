@@ -1,0 +1,11 @@
+{
+	"title": "Binding of Isaac - Mini-Bosses", // List title
+
+	// Logo image information
+	"logo": {
+		"src": "assets/ultra-pride.png", // Logo source image (Example: "assets/abc.png")
+		"object-fit": "cover", // CSS object-fit value
+		"object-position": "top",
+		"pixelated": false // If true, keep the image pixelated upon resize
+	}
+}

@@ -1,0 +1,603 @@
+{
+	"rankings": [
+		{
+			"title": "Binding of Isaac - Bosses Difficulty",
+			"state": "m7LQIG6h4SSGSQsN5ohOkleYJKcxSUhVcqasspKAmAiXhJTiTE1ecW5hdQ4Zzhk8KtL8fGzsLGpTmFkZBCcxMQIA"
+		}
+	],
+	"items": [
+		{
+			"name": "The Duke of Flies",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Duke_of_Flies",
+				"img": {
+					"src": "assets/the-duke-of-flies.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Gemini",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Gemini",
+				"img": {
+					"src": "assets/gemini.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Monstro",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Monstro",
+				"img": {
+					"src": "assets/monstro.png",
+					"width": 256,
+					"height": 211
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Larry Jr.",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Larry_Jr.",
+				"img": {
+					"src": "assets/larry-jr.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Steven",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Steven_(boss)",
+				"img": {
+					"src": "assets/steven.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Famine",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Famine",
+				"img": {
+					"src": "assets/famine.png",
+					"width": 165,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Widow",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Widow",
+				"img": {
+					"src": "assets/widow.png",
+					"width": 256,
+					"height": 193
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Pin",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Pin",
+				"img": {
+					"src": "assets/pin.png",
+					"width": 219,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Fistula",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Fistula",
+				"img": {
+					"src": "assets/fistula.png",
+					"width": 256,
+					"height": 198
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Gurdy",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Gurdy",
+				"img": {
+					"src": "assets/gurdy.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Peep",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Peep",
+				"img": {
+					"src": "assets/peep.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Chub",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Chub",
+				"img": {
+					"src": "assets/chub.png",
+					"width": 230,
+					"height": 166
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "C.H.A.D.",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/C.H.A.D.",
+				"img": {
+					"src": "assets/c-h-a-d.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Pestilence",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Pestilence",
+				"img": {
+					"src": "assets/pestilence.png",
+					"width": 211,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "The Husk",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Husk",
+				"img": {
+					"src": "assets/the-husk.png",
+					"width": 250,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Hollow",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Hollow",
+				"img": {
+					"src": "assets/the-hollow.png",
+					"width": 256,
+					"height": 222
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Monstro II",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Monstro_II",
+				"img": {
+					"src": "assets/monstro-ii.png",
+					"width": 256,
+					"height": 207
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Loki",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Loki",
+				"img": {
+					"src": "assets/loki.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom",
+				"img": {
+					"src": "assets/mom.png",
+					"width": 250,
+					"height": 250
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Gish",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Gish",
+				"img": {
+					"src": "assets/gish.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "War",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/War",
+				"img": {
+					"src": "assets/war.png",
+					"width": 182,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mask of Infamy",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mask_of_Infamy",
+				"img": {
+					"src": "assets/mask-of-infamy.png",
+					"width": 256,
+					"height": 221
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Scolex",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Scolex",
+				"img": {
+					"src": "assets/scolex.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Blastocyst",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Blastocyst",
+				"img": {
+					"src": "assets/blastocyst.png",
+					"width": 256,
+					"height": 236
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Mom's Heart",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Mom%27s_Heart",
+				"img": {
+					"src": "assets/mom-s-heart.png",
+					"width": 186,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "It Lives",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/It_Lives",
+				"img": {
+					"src": "assets/it-lives.png",
+					"width": 192,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Death",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Death",
+				"img": {
+					"src": "assets/death.png",
+					"width": 235,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Teratoma",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Teratoma",
+				"img": {
+					"src": "assets/teratoma.png",
+					"width": 256,
+					"height": 227
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Lokii",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Lokii",
+				"img": {
+					"src": "assets/lokii.png",
+					"width": 256,
+					"height": 205
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Conquest",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Conquest",
+				"img": {
+					"src": "assets/conquest.png",
+					"width": 248,
+					"height": 194
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Satan",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Satan",
+				"img": {
+					"src": "assets/satan.png",
+					"width": 178,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Isaac",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Isaac_(boss)",
+				"img": {
+					"src": "assets/isaac.png",
+					"width": 225,
+					"height": 175
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "???",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/%3F%3F%3F_(boss)",
+				"img": {
+					"src": "assets/xxx.png",
+					"width": 232,
+					"height": 130
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Fallen",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Fallen",
+				"img": {
+					"src": "assets/the-fallen.png",
+					"width": 256,
+					"height": 238
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Headless Horseman",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Headless_Horseman",
+				"img": {
+					"src": "assets/headless-horseman.png",
+					"width": 213,
+					"height": 235
+				},
+				"fields": {
+					"Added in": "Initial Release"
+				}
+			}
+		},
+		{
+			"name": "Gurdy Jr.",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Gurdy_Jr.",
+				"img": {
+					"src": "assets/gurdy-jr.png",
+					"width": 256,
+					"height": 208
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Blighted Ovum",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Blighted_Ovum",
+				"img": {
+					"src": "assets/blighted-ovum.png",
+					"width": 204,
+					"height": 198
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Carrion Queen",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Carrion_Queen",
+				"img": {
+					"src": "assets/the-carrion-queen.png",
+					"width": 256,
+					"height": 184
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Wretched",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Wretched",
+				"img": {
+					"src": "assets/the-wretched.png",
+					"width": 256,
+					"height": 170
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Daddy Long Legs",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Daddy_Long_Legs",
+				"img": {
+					"src": "assets/daddy-long-legs.png",
+					"width": 204,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "The Bloat",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/The_Bloat",
+				"img": {
+					"src": "assets/the-bloat.png",
+					"width": 256,
+					"height": 212
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		},
+		{
+			"name": "Triachnid",
+			"props": {
+				"url": "https://bindingofisaac.fandom.com/wiki/Triachnid",
+				"img": {
+					"src": "assets/triachnid.png",
+					"width": 171,
+					"height": 256
+				},
+				"fields": {
+					"Added in": "Wrath of the Lamb"
+				}
+			}
+		}
+	],
+	"attrs": [
+		{
+			"pointer": "/props/fields/Added in"
+		}
+	]
+}

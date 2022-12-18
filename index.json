@@ -1,0 +1,12 @@
+{
+	"title": "Binding of Isaac",
+	"lists": [
+		"lists/bosses",
+		"lists/characters",
+		"lists/items",
+		"lists/mini-bosses",
+		"lists/monsters",
+		"lists/tarot-cards",
+		"lists/trinkets"
+	]
+}

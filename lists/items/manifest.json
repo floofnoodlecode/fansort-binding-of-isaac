@@ -1,0 +1,11 @@
+{
+	"title": "Binding of Isaac - Items", // List title
+
+	// Logo image information
+	"logo": {
+		"src": "assets/the-dice.png", // Logo source image (Example: "assets/abc.png")
+		"object-fit": "contain", // CSS object-fit value
+		"object-position": "50% 50%", // CSS object-position value
+		"pixelated": false // If true, keep the image pixelated upon resize
+	}
+}

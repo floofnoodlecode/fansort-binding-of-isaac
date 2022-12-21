@@ -1,11 +1,9 @@
 {
-	"title": "Binding of Isaac - Trinkets", // List title
-
-	// Logo image information
-	"logo": {
-		"src": "assets/the-polaroid.png", // Logo source image (Example: "assets/abc.png")
-		"object-fit": "contain", // CSS object-fit value
-		"object-position": "50% 50%", // CSS object-position value
-		"pixelated": false // If true, keep the image pixelated upon resize
+	"title": "Binding of Isaac - Trinkets",
+	"props": {
+		"logo": {
+			"src": "assets/the-polaroid.png",
+			"style": "object-fit: contain"
+		}
 	}
 }

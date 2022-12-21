@@ -1,11 +1,9 @@
 {
-	"title": "Binding of Isaac - Characters", // List title
-
-	// Logo image information
-	"logo": {
-		"src": "assets/cain.png", // Logo source image (Example: "assets/abc.png")
-		"object-fit": "cover", // CSS object-fit value
-		"object-position": "top",
-		"pixelated": false // If true, keep the image pixelated upon resize
+	"title": "Binding of Isaac - Characters",
+	"props": {
+		"logo": {
+			"src": "assets/cain.png",
+			"style": "object-fit:cover; object-position:top"
+		}
 	}
 }

@@ -8,6 +8,9 @@
 	"items": [
 		{
 			"name": "O The Fool",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Fool",
 				"img": {
@@ -16,13 +19,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Teleports the player to the starting room of the current level, even if you use the card in the starting room.",
-					"Added in": "Initial Release"
+					"effect": "Teleports the player to the starting room of the current level, even if you use the card in the starting room."
 				}
 			}
 		},
 		{
 			"name": "I The Magician",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Magician",
 				"img": {
@@ -31,13 +36,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Player's shots curve towards enemies and may turn purple until you leave the current room.",
-					"Added in": "Initial Release"
+					"effect": "Player's shots curve towards enemies and may turn purple until you leave the current room."
 				}
 			}
 		},
 		{
 			"name": "II The High Priestess",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_High_Priestess",
 				"img": {
@@ -46,13 +53,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nSummons Mom's foot stomp on a random enemy (targets the player if fighting Mom or if there are no enemies present), dealing massive damage — enough to kill most bosses.",
-					"Added in": "Initial Release"
+					"effect": "\nSummons Mom's foot stomp on a random enemy (targets the player if fighting Mom or if there are no enemies present), dealing massive damage — enough to kill most bosses."
 				}
 			}
 		},
 		{
 			"name": "III The Empress",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Empress",
 				"img": {
@@ -61,13 +70,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nTurns the player into a demon, increasing damage by 2 and speed by 1 until you leave the current room.",
-					"Added in": "Initial Release"
+					"effect": "\nTurns the player into a demon, increasing damage by 2 and speed by 1 until you leave the current room."
 				}
 			}
 		},
 		{
 			"name": "IV The Emperor",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Emperor",
 				"img": {
@@ -76,13 +87,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Teleports the player to the Boss Room.",
-					"Added in": "Initial Release"
+					"effect": "Teleports the player to the Boss Room."
 				}
 			}
 		},
 		{
 			"name": "V The Hierophant",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Hierophant",
 				"img": {
@@ -91,13 +104,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Spawns 2 soul hearts.",
-					"Added in": "Initial Release"
+					"effect": "Spawns 2 soul hearts."
 				}
 			}
 		},
 		{
 			"name": "VI The Lovers",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Lovers",
 				"img": {
@@ -106,13 +121,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Spawns 2 full hearts.",
-					"Added in": "Initial Release"
+					"effect": "Spawns 2 full hearts."
 				}
 			}
 		},
 		{
 			"name": "VII The Chariot",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Chariot",
 				"img": {
@@ -121,13 +138,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nGrants you temporary invincibility, and causes you to damage enemies with touch.",
-					"Added in": "Initial Release"
+					"effect": "\nGrants you temporary invincibility, and causes you to damage enemies with touch."
 				}
 			}
 		},
 		{
 			"name": "VIII Justice",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "Justice",
 				"img": {
@@ -136,13 +155,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Spawns 1 random type of Bomb drop, Key drop, Coin drop, and Heart drop.",
-					"Added in": "Initial Release"
+					"effect": "Spawns 1 random type of Bomb drop, Key drop, Coin drop, and Heart drop."
 				}
 			}
 		},
 		{
 			"name": "IX The Hermit",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Hermit",
 				"img": {
@@ -151,13 +172,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Teleports the player to the Shop.",
-					"Added in": "Initial Release"
+					"effect": "Teleports the player to the Shop."
 				}
 			}
 		},
 		{
 			"name": "X Wheel of Fortune",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "Wheel_of_Fortune",
 				"img": {
@@ -166,13 +189,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Spawns a Slot Machine.",
-					"Added in": "Initial Release"
+					"effect": "Spawns a Slot Machine."
 				}
 			}
 		},
 		{
 			"name": "XI Strength",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "Strength",
 				"img": {
@@ -181,13 +206,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Makes the player bigger, increasing maximum health and damage until the player leaves the current room (same effect as Odd Mushroom (Large)).",
-					"Added in": "Initial Release"
+					"effect": "Makes the player bigger, increasing maximum health and damage until the player leaves the current room (same effect as Odd Mushroom (Large))."
 				}
 			}
 		},
 		{
 			"name": "XII The Hanged Man",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Hanged_Man",
 				"img": {
@@ -196,13 +223,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Removes the player's body allowing flight over obstacles, spikes and pits until you leave the current room.",
-					"Added in": "Initial Release"
+					"effect": "Removes the player's body allowing flight over obstacles, spikes and pits until you leave the current room."
 				}
 			}
 		},
 		{
 			"name": "XIII Death",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "Death",
 				"img": {
@@ -211,13 +240,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Damages all enemies in the room significantly.",
-					"Added in": "Initial Release"
+					"effect": "Damages all enemies in the room significantly."
 				}
 			}
 		},
 		{
 			"name": "XIV Temperance",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "Temperance",
 				"img": {
@@ -226,13 +257,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nSpawns a Blood Donation Machine.",
-					"Added in": "Initial Release"
+					"effect": "\nSpawns a Blood Donation Machine."
 				}
 			}
 		},
 		{
 			"name": "XV The Devil",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Devil",
 				"img": {
@@ -241,13 +274,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Increases your damage by 2 until you leave the room.",
-					"Added in": "Initial Release"
+					"effect": "Increases your damage by 2 until you leave the room."
 				}
 			}
 		},
 		{
 			"name": "XVI The Tower",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Tower",
 				"img": {
@@ -256,13 +291,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nSpawns six troll bombs around the room.",
-					"Added in": "Initial Release"
+					"effect": "\nSpawns six troll bombs around the room."
 				}
 			}
 		},
 		{
 			"name": "XVII The Stars",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Stars",
 				"img": {
@@ -271,13 +308,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Teleports the player to the Treasure Room.",
-					"Added in": "Initial Release"
+					"effect": "Teleports the player to the Treasure Room."
 				}
 			}
 		},
 		{
 			"name": "XVIII The Moon",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Moon",
 				"img": {
@@ -286,13 +325,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Teleports the player to the Secret Room.",
-					"Added in": "Initial Release"
+					"effect": "Teleports the player to the Secret Room."
 				}
 			}
 		},
 		{
 			"name": "XIX The Sun",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_Sun",
 				"img": {
@@ -301,13 +342,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Completely heals player, damages all enemies, reveals the entire map and location of special rooms for the current level and removes the effect of Curse of the Darkness.",
-					"Added in": "Initial Release"
+					"effect": "Completely heals player, damages all enemies, reveals the entire map and location of special rooms for the current level and removes the effect of Curse of the Darkness."
 				}
 			}
 		},
 		{
 			"name": "XX Judgement",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "Judgement",
 				"img": {
@@ -316,13 +359,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Spawns a beggar.",
-					"Added in": "Initial Release"
+					"effect": "Spawns a beggar."
 				}
 			}
 		},
 		{
 			"name": "XXI The World",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"id": "The_World",
 				"img": {
@@ -331,13 +376,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nReveals the entire map and location of all special rooms for the current level and removes the effect of Curse of the Darkness.",
-					"Added in": "Initial Release"
+					"effect": "\nReveals the entire map and location of all special rooms for the current level and removes the effect of Curse of the Darkness."
 				}
 			}
 		},
 		{
 			"name": "The Joker",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"id": "The_Joker",
 				"img": {
@@ -346,13 +393,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nTransports you to the Devil Room.",
-					"Added in": "Wrath of the Lamb"
+					"effect": "\nTransports you to the Devil Room."
 				}
 			}
 		},
 		{
 			"name": "2 of Hearts",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"id": "2_of_Hearts",
 				"img": {
@@ -361,13 +410,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nDoubles your Hearts (up to full health).",
-					"Added in": "Wrath of the Lamb"
+					"effect": "\nDoubles your Hearts (up to full health)."
 				}
 			}
 		},
 		{
 			"name": "2 of Spades",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"id": "2_of_Spades",
 				"img": {
@@ -376,13 +427,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "\nDoubles the number of Keys you currently have.",
-					"Added in": "Wrath of the Lamb"
+					"effect": "\nDoubles the number of Keys you currently have."
 				}
 			}
 		},
 		{
 			"name": "2 of Clubs",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"id": "2_of_Clubs",
 				"img": {
@@ -391,13 +444,15 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Doubles the number of Bombs you currently have.",
-					"Added in": "Wrath of the Lamb"
+					"effect": "Doubles the number of Bombs you currently have."
 				}
 			}
 		},
 		{
 			"name": "2 of Diamonds",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"id": "2_of_Diamonds",
 				"img": {
@@ -406,15 +461,9 @@
 					"height": 113
 				},
 				"fields": {
-					"effect": "Doubles the number of Coins you currently have.",
-					"Added in": "Wrath of the Lamb"
+					"effect": "Doubles the number of Coins you currently have."
 				}
 			}
-		}
-	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Added in"
 		}
 	]
 }

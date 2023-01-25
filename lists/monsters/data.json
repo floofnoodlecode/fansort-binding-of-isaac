@@ -8,6 +8,10 @@
 	"items": [
 		{
 			"name": "Black Fly",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Black_Fly",
 				"img": {
@@ -16,14 +20,16 @@
 					"height": 41
 				},
 				"fields": {
-					"description": "Tiny black flies that do not hurt Isaac upon touch.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Tiny black flies that do not hurt Isaac upon touch."
+				}
 			}
 		},
 		{
 			"name": "Attack Fly",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Attack_Fly",
 				"img": {
@@ -32,14 +38,16 @@
 					"height": 41
 				},
 				"fields": {
-					"description": "Red Flies that follow Isaac and deal touch damage.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Red Flies that follow Isaac and deal touch damage."
+				}
 			}
 		},
 		{
 			"name": "Moter",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Moter",
 				"img": {
@@ -49,14 +57,16 @@
 				},
 				"fields": {
 					"description": "Follows Isaac, similar to Attack Flies. Will split into 2 Attack Flies upon death.",
-					"Eternal": "Splits into 4 Attack Flies instead of 2.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Splits into 4 Attack Flies instead of 2."
+				}
 			}
 		},
 		{
 			"name": "Eternal Fly",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Eternal_Fly",
 				"img": {
@@ -65,14 +75,16 @@
 					"height": 41
 				},
 				"fields": {
-					"description": "Invulnerable Fly that circles Corny Poop, Holy Leeches or Hangers.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": false
+					"description": "Invulnerable Fly that circles Corny Poop, Holy Leeches or Hangers."
+				}
 			}
 		},
 		{
 			"name": "Pooter",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Pooter",
 				"img": {
@@ -82,14 +94,16 @@
 				},
 				"fields": {
 					"description": "Slow-moving flies that fire single blood shots at Isaac. Pooters do not deal contact damage.",
-					"Eternal": "Fires 3 shots in quick succession.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 shots in quick succession."
+				}
 			}
 		},
 		{
 			"name": "Fat Fly",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Fat_Fly",
 				"img": {
@@ -99,14 +113,16 @@
 				},
 				"fields": {
 					"description": "Alternate version of Pooters. Fires 2 shots in a V-formation and does not deal contact damage.",
-					"Eternal": "Fires 3 sets of 3 shots in a V-formation.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 sets of 3 shots in a V-formation."
+				}
 			}
 		},
 		{
 			"name": "Boom Fly",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Boom_Fly",
 				"img": {
@@ -116,14 +132,16 @@
 				},
 				"fields": {
 					"description": "Flies around the room diagonally, dealing touch damage and exploding with a large blast radius upon death.",
-					"Eternal": "Explodes with very large blast radius upon death.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Explodes with very large blast radius upon death."
+				}
 			}
 		},
 		{
 			"name": "Red Boom Fly",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Red_Boom_Fly",
 				"img": {
@@ -133,14 +151,16 @@
 				},
 				"fields": {
 					"description": "Flies around the room diagonally, dealing touch damage and exploding into 6 directional blood shots upon death.",
-					"Eternal": "Explodes into a dense ring of blood shots upon death.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Explodes into a dense ring of blood shots upon death."
+				}
 			}
 		},
 		{
 			"name": "Sucker",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Sucker",
 				"img": {
@@ -150,14 +170,16 @@
 				},
 				"fields": {
 					"description": "Flies slowly towards Isaac, exploding into 4 projectiles in a + formation upon death.",
-					"Eternal": "Shoots 4 projectiles in a + formation, exploding into 8 blood shots upon death.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Shoots 4 projectiles in a + formation, exploding into 8 blood shots upon death."
+				}
 			}
 		},
 		{
 			"name": "Spit",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Spit",
 				"img": {
@@ -167,14 +189,16 @@
 				},
 				"fields": {
 					"description": "Flies slowly towards Isaac, exploding into an IPECAC shot upon death which targets other Spits in the room, or Isaac.",
-					"Eternal": "Shoots 4 projectiles diagonally, exploding into 3 IPECAC shots upon death.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Shoots 4 projectiles diagonally, exploding into 3 IPECAC shots upon death."
+				}
 			}
 		},
 		{
 			"name": "Spider",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Spider",
 				"img": {
@@ -183,14 +207,16 @@
 					"height": 33
 				},
 				"fields": {
-					"description": "Moves erratically around the room, damaging Isaac by touch.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": false
+					"description": "Moves erratically around the room, damaging Isaac by touch."
+				}
 			}
 		},
 		{
 			"name": "Big Spider",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Big_Spider",
 				"img": {
@@ -200,14 +226,16 @@
 				},
 				"fields": {
 					"description": "Moves erratically around the room, splitting into two Spiders upon death.",
-					"Eternal": "Explodes into many Spiders upon death.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Explodes into many Spiders upon death."
+				}
 			}
 		},
 		{
 			"name": "Trite",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Trite",
 				"img": {
@@ -217,14 +245,16 @@
 				},
 				"fields": {
 					"description": "Quickly jumps towards Isaac with high distance. If Isaac is too far away it will jump around randomly.",
-					"Eternal": "Leaves slowing creep and shoots 4 projectiles in a + formation wherever it lands.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Leaves slowing creep and shoots 4 projectiles in a + formation wherever it lands."
+				}
 			}
 		},
 		{
 			"name": "Boil",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Boil",
 				"img": {
@@ -234,14 +264,16 @@
 				},
 				"fields": {
 					"description": "Stationary enemy that shrinks upon being hit. Will quickly swell up if not killed in time. Fires multiple short-ranged blood projectiles when fully swollen.",
-					"Eternal": "Fires a larger volley of blood projectiles.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires a larger volley of blood projectiles."
+				}
 			}
 		},
 		{
 			"name": "Gut",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Gut",
 				"img": {
@@ -251,14 +283,16 @@
 				},
 				"fields": {
 					"description": "Stationary enemy that shrinks upon being hit. Will quickly swell up if not killed in time. Fires an IPECAC shot when fully swollen.",
-					"Eternal": "Fires 3 IPECAC shots instead of one.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 IPECAC shots instead of one."
+				}
 			}
 		},
 		{
 			"name": "Sack",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Sack",
 				"img": {
@@ -268,14 +302,16 @@
 				},
 				"fields": {
 					"description": "Stationary enemy that shrinks upon being hit. Swells up slower than Guts and Boils. Spawns a Spider when fully swollen.",
-					"Eternal": "Spawns two Spiders instead of one.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Spawns two Spiders instead of one."
+				}
 			}
 		},
 		{
 			"name": "Walking Boil",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": null,
 				"img": {
@@ -285,14 +321,16 @@
 				},
 				"fields": {
 					"description": "Mobile Boil that cannot shrink, but has a finite amount of health. Fires short-ranged blood shots with varying sizes at a reduced fire rate.",
-					"Eternal": "Fires a larger volley of blood projectiles.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Fires a larger volley of blood projectiles."
+				}
 			}
 		},
 		{
 			"name": "Walking Gut",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Walking_Gut",
 				"img": {
@@ -302,14 +340,16 @@
 				},
 				"fields": {
 					"description": "Mobile Gut that cannot shrink, but has a finite amount of health. Fires IPECAC shots at a reduced fire rate.",
-					"Eternal": "Fires 3 IPECAC shots instead of one.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 IPECAC shots instead of one."
+				}
 			}
 		},
 		{
 			"name": "Walking Sack",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Walking_Sack",
 				"img": {
@@ -319,14 +359,16 @@
 				},
 				"fields": {
 					"description": "Mobile Sack that cannot shrink, but has a finite amount of health. Spawns Spiders.",
-					"Eternal": "Spawns two Spiders instead of one.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Spawns two Spiders instead of one."
+				}
 			}
 		},
 		{
 			"name": "Mulligan",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Mulligan",
 				"img": {
@@ -336,14 +378,16 @@
 				},
 				"fields": {
 					"description": "Harmless enemy that walks around the room, avoiding Isaac. Will spawn multiple flies upon death.",
-					"Eternal": "Periodically fires 4 shots in a + formation whenever Isaac is standing to that formation.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Periodically fires 4 shots in a + formation whenever Isaac is standing to that formation."
+				}
 			}
 		},
 		{
 			"name": "Mulligoon",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Mulligoon",
 				"img": {
@@ -353,14 +397,16 @@
 				},
 				"fields": {
 					"description": "Harmless enemy that walks around the room, avoiding Isaac. Will drop a Troll Bomb upon death.",
-					"Eternal": "Periodically spawns Spiders while running away.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Periodically spawns Spiders while running away."
+				}
 			}
 		},
 		{
 			"name": "Mulliboom",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Mulliboom",
 				"img": {
@@ -370,14 +416,16 @@
 				},
 				"fields": {
 					"description": "Walks towards Isaac, exploding with a large blast radius upon death or upon touching Isaac. The explosion does a half-heart of damage instead of the regular full heart.",
-					"Eternal": "Continuously fires two IPECAC shots while walking.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Continuously fires two IPECAC shots while walking."
+				}
 			}
 		},
 		{
 			"name": "Hive",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Hive",
 				"img": {
@@ -387,14 +435,16 @@
 				},
 				"fields": {
 					"description": "Walks around the room, avoiding Isaac while spawning Attack Flies. Spawns a large number of Flies upon death.",
-					"Eternal": "Spawns two flies instead of one each time, and spawns more flies upon death. Can sometimes be a mini-boss with health bar and larger body, spitting eternal flies and has orbital eternal flies.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Spawns two flies instead of one each time, and spawns more flies upon death. Can sometimes be a mini-boss with health bar and larger body, spitting eternal flies and has orbital eternal flies."
+				}
 			}
 		},
 		{
 			"name": "Swarmer",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Swarmer",
 				"img": {
@@ -404,14 +454,16 @@
 				},
 				"fields": {
 					"description": "Slowly floats around the room, spawning a Pooter upon taking damage. Spawns a large number of Flies upon death.",
-					"Eternal": "Spawns Eternal Flies instead of regular Flies, one Pooter and one Eternal Fly when damaged, and will split into 3 non-Eternal Swarmers when killed.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Spawns Eternal Flies instead of regular Flies, one Pooter and one Eternal Fly when damaged, and will split into 3 non-Eternal Swarmers when killed."
+				}
 			}
 		},
 		{
 			"name": "Hopper",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Hopper",
 				"img": {
@@ -421,14 +473,16 @@
 				},
 				"fields": {
 					"description": "Jumps around the room slowly, damaging Isaac by touch.",
-					"Eternal": "Stands still before start pursuing Isaac, firing 4 blood projectiles in a + formation after it lands.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Stands still before start pursuing Isaac, firing 4 blood projectiles in a + formation after it lands."
+				}
 			}
 		},
 		{
 			"name": "Flaming Hopper",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Flaming_Hopper",
 				"img": {
@@ -438,14 +492,16 @@
 				},
 				"fields": {
 					"description": "Jumps around the room quickly, covering a large distance, similar to Trites.",
-					"Eternal": "Stands still before start pursuing Isaac, firing 4 blood projectiles in a + formation after it lands.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Stands still before start pursuing Isaac, firing 4 blood projectiles in a + formation after it lands."
+				}
 			}
 		},
 		{
 			"name": "Leaper",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Leaper",
 				"img": {
@@ -455,14 +511,16 @@
 				},
 				"fields": {
 					"description": "Jumps around the room quickly, but not as fast as F. Hoppers. Occasionally jumps high into the air, dropping down elsewhere while firing 4 blood shots in a plus pattern.",
-					"Eternal": "Stands still before start pursuing Isaac, firing 4 blood projectiles in a + formation after it lands, and 8 blood shots in all directions after the big jump.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Stands still before start pursuing Isaac, firing 4 blood projectiles in a + formation after it lands, and 8 blood shots in all directions after the big jump."
+				}
 			}
 		},
 		{
 			"name": "Pacer",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Pacer",
 				"img": {
@@ -471,14 +529,16 @@
 					"height": 80
 				},
 				"fields": {
-					"description": "Walks aimlessly around the room. Usually spawned after killing a Gaper/Frowning Gaper.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Walks aimlessly around the room. Usually spawned after killing a Gaper/Frowning Gaper."
+				}
 			}
 		},
 		{
 			"name": "Gusher",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Gusher",
 				"img": {
@@ -488,14 +548,16 @@
 				},
 				"fields": {
 					"description": "Walks aimlessly around the room, firing extremely short-ranged blood projectiles from its head. Usually spawned after killing a Gaper/Frowning Gaper.",
-					"Eternal": "Walks towards Isaac, firing fast projectiles in Isaac's general direction.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Walks towards Isaac, firing fast projectiles in Isaac's general direction."
+				}
 			}
 		},
 		{
 			"name": "Gaper",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Gaper",
 				"img": {
@@ -505,14 +567,16 @@
 				},
 				"fields": {
 					"description": "Walks towards Isaac, dealing contact damage. Usually turns into a Pacer or Gusher upon death.",
-					"Eternal": "Always turns into an Eternal Gusher or Eternal Horf upon death.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Always turns into an Eternal Gusher or Eternal Horf upon death."
+				}
 			}
 		},
 		{
 			"name": "Frowning Gaper",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Frowning_Gaper",
 				"img": {
@@ -522,14 +586,16 @@
 				},
 				"fields": {
 					"description": "Walks towards Isaac, dealing contact damage. If Isaac is in sight, its eyes will open and it will walk faster. Usually turns into a Pacer or Gusher upon death.",
-					"Eternal": "Always turns into an Eternal Gusher or Eternal Horf upon death.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Always turns into an Eternal Gusher or Eternal Horf upon death."
+				}
 			}
 		},
 		{
 			"name": "Gurgle",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Gurgle",
 				"img": {
@@ -539,14 +605,16 @@
 				},
 				"fields": {
 					"description": "Slowly walks towards Isaac, firing short-ranged IPECAC shots at him. Has much more health than regular Gapers.",
-					"Eternal": "Leaves a trail of damaging creep and fires a long-ranged homing IPECAC shot at Isaac.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Leaves a trail of damaging creep and fires a long-ranged homing IPECAC shot at Isaac."
+				}
 			}
 		},
 		{
 			"name": "Mr. Maw",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Mr._Maw",
 				"img": {
@@ -556,14 +624,16 @@
 				},
 				"fields": {
 					"description": "Walks towards Isaac, quickly launching its head, still attached to its body by a cord. Turns into a Maw or Pacer upon death.",
-					"Eternal": "Shoots 8 shots in all directions every time it shoots its head.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Shoots 8 shots in all directions every time it shoots its head."
+				}
 			}
 		},
 		{
 			"name": "Horf",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Horf",
 				"img": {
@@ -573,14 +643,16 @@
 				},
 				"fields": {
 					"description": "Stationary enemy that fires medium ranged blood shots at Isaac.",
-					"Eternal": "Shoots a wide spread of 5 blood shots each time.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Shoots a wide spread of 5 blood shots each time."
+				}
 			}
 		},
 		{
 			"name": "Maw",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Maw",
 				"img": {
@@ -590,14 +662,16 @@
 				},
 				"fields": {
 					"description": "Floats towards Isaac, firing fast-moving blood shots.",
-					"Eternal": "Fires spread volleys of 9 blood projectiles.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires spread volleys of 9 blood projectiles."
+				}
 			}
 		},
 		{
 			"name": "Red Maw",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Red_Maw",
 				"img": {
@@ -607,14 +681,16 @@
 				},
 				"fields": {
 					"description": "Floats towards Isaac faster than regular Maws, exploding into 4 blood shots in a plus pattern upon death. Does not fire any shots.",
-					"Eternal": "Constantly leaves red creep and explodes into 8 shots in all directions upon death.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Constantly leaves red creep and explodes into 8 shots in all directions upon death."
+				}
 			}
 		},
 		{
 			"name": "Psychic Maw",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Psychic_Maw",
 				"img": {
@@ -624,14 +700,16 @@
 				},
 				"fields": {
 					"description": "Alternate version of a Maw, has an Eternal Fly circling it. Fires large, purple homing shots at Isaac.",
-					"Eternal": "3 Eternal Flies instead of one.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "3 Eternal Flies instead of one."
+				}
 			}
 		},
 		{
 			"name": "Globin",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Globin",
 				"img": {
@@ -641,14 +719,16 @@
 				},
 				"fields": {
 					"description": "Walks towards Isaac, dealing one heart of contact damage. Turns into a pile of goo after taking enough damage, where it can be killed. Will regenerate after a short amount of time if not killed quickly.",
-					"Eternal": "Fires a ring of 8 blood projectiles after collapsing into a pile of goo.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires a ring of 8 blood projectiles after collapsing into a pile of goo."
+				}
 			}
 		},
 		{
 			"name": "Gazing Globin",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Gazing_Globin",
 				"img": {
@@ -658,14 +738,16 @@
 				},
 				"fields": {
 					"description": "Quickly walks towards Isaac, dealing one heart of contact damage. Turns into a pile of goo and slides away after taking enough damage, where it can be killed. Will regenerate after a short amount of time if not killed quickly.",
-					"Eternal": "Fires a ring of 8 blood projectiles after collapsing into a pile of goo, also keeping firing while slide away.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires a ring of 8 blood projectiles after collapsing into a pile of goo, also keeping firing while slide away."
+				}
 			}
 		},
 		{
 			"name": "Knight",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Knight",
 				"img": {
@@ -675,14 +757,16 @@
 				},
 				"fields": {
 					"description": "Moves erratically around the room. Can only be damaged from behind.",
-					"Eternal": "Reflects Isaac's shots on its face and leaves red creep each time it takes damage.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Reflects Isaac's shots on its face and leaves red creep each time it takes damage."
+				}
 			}
 		},
 		{
 			"name": "Selfless Knight",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Selfless_Knight",
 				"img": {
@@ -692,14 +776,16 @@
 				},
 				"fields": {
 					"description": "Moves erratically around the room, charging at Isaac at very high speed. Can only be damaged from behind.",
-					"Eternal": "Reflects Isaac's shots on its face and leaves red creep each time it takes damage.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Reflects Isaac's shots on its face and leaves red creep each time it takes damage."
+				}
 			}
 		},
 		{
 			"name": "Mask + Heart",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Mask_%2B_Heart",
 				"img": {
@@ -709,14 +795,16 @@
 				},
 				"fields": {
 					"description": "Invulnerable mask with a slow-moving Heart. Functions similarly to a Knight. The Heart fires 4 blood shots in a plus pattern when Isaac gets near. Killing the Heart will automatically kill the Mask.",
-					"Eternal": "Eternal Heart fires 8 shots in all directions in quick succession, shooting 4 shots in the cardinal directions upon death. Eternal Mask immediately teleport back to the corresponding Heart and start charging should the Heart take damage.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Eternal Heart fires 8 shots in all directions in quick succession, shooting 4 shots in the cardinal directions upon death. Eternal Mask immediately teleport back to the corresponding Heart and start charging should the Heart take damage."
+				}
 			}
 		},
 		{
 			"name": "Clotty",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Clotty",
 				"img": {
@@ -726,14 +814,16 @@
 				},
 				"fields": {
 					"description": "Moves around the room, firing 4 blood shots in a + pattern.",
-					"Eternal": "Fires 3 sets of 4 blood projectiles in a + pattern as well as multiple various-sized blood projectiles in random directions.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 sets of 4 blood projectiles in a + pattern as well as multiple various-sized blood projectiles in random directions."
+				}
 			}
 		},
 		{
 			"name": "Clot",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Clot",
 				"img": {
@@ -743,14 +833,16 @@
 				},
 				"fields": {
 					"description": "Moves around the room, firing 4 tar shots in an X pattern.",
-					"Eternal": "Fires 3 sets of 4 blood projectiles in an X pattern as well as multiple various-sized blood projectiles in random directions.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 sets of 4 blood projectiles in an X pattern as well as multiple various-sized blood projectiles in random directions."
+				}
 			}
 		},
 		{
 			"name": "I. Blob",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/I._Blob",
 				"img": {
@@ -760,14 +852,16 @@
 				},
 				"fields": {
 					"description": "Moves around the room, firing 8 shots in all directions.",
-					"Eternal": "Fires 3 sets of 8 blood projectiles in all directions as well as multiple various-sized blood projectiles in random directions while also slowly move toward Isaac.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 sets of 8 blood projectiles in all directions as well as multiple various-sized blood projectiles in random directions while also slowly move toward Isaac."
+				}
 			}
 		},
 		{
 			"name": "Maggot",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Maggot",
 				"img": {
@@ -777,14 +871,16 @@
 				},
 				"fields": {
 					"description": "Aimlessly moves around the room, damaging Isaac by contact.",
-					"Eternal": "Leaves green creep, and after a few seconds, it will transform into an Eternal Sack, which will in turn after a few seconds transform into an Eternal Fat Fly.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Leaves green creep, and after a few seconds, it will transform into an Eternal Sack, which will in turn after a few seconds transform into an Eternal Fat Fly."
+				}
 			}
 		},
 		{
 			"name": "Charger",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Charger",
 				"img": {
@@ -794,14 +890,16 @@
 				},
 				"fields": {
 					"description": "Slowly moves around the room, charging at Isaac when he gets in its line of sight.",
-					"Eternal": "Leaves green creep, and after a few seconds, it will transform into an Eternal Sack, which will in turn after a few seconds transform into an Eternal Fat Fly.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Leaves green creep, and after a few seconds, it will transform into an Eternal Sack, which will in turn after a few seconds transform into an Eternal Fat Fly."
+				}
 			}
 		},
 		{
 			"name": "Spitty",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Spitty",
 				"img": {
@@ -811,14 +909,16 @@
 				},
 				"fields": {
 					"description": "Slowly moves around the room, firing a single long-ranged blood shot when Isaac gets in its line of sight.",
-					"Eternal": "Fires 3 projectiles, one in the center and two in a V-formation when Isaac gets in its line of sight.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 projectiles, one in the center and two in a V-formation when Isaac gets in its line of sight."
+				}
 			}
 		},
 		{
 			"name": "Brain",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Brain",
 				"img": {
@@ -828,14 +928,16 @@
 				},
 				"fields": {
 					"description": "Crawls around the room, leaving a trail of red Creep that does one heart of damage.",
-					"Eternal": "Shoots a homing blood shot at Isaac.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Shoots a homing blood shot at Isaac."
+				}
 			}
 		},
 		{
 			"name": "MemBrain",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/MemBrain",
 				"img": {
@@ -845,14 +947,16 @@
 				},
 				"fields": {
 					"description": "Slowly moves around the room, occasionally hopping and firing 8 large blood shots in all directions. Will split into 2 Brains upon death.",
-					"Eternal": "Shoots 8 homing blood shots and spawns 3-4 Eternal Brains upon death.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Shoots 8 homing blood shots and spawns 3-4 Eternal Brains upon death."
+				}
 			}
 		},
 		{
 			"name": "Guts",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Guts",
 				"img": {
@@ -862,14 +966,16 @@
 				},
 				"fields": {
 					"description": "Attaches itself to a wall or obstacle, such as a Rock, rolling around the room.",
-					"Eternal": "Moves faster and occasionally shoots 8 shots in all directions.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Moves faster and occasionally shoots 8 shots in all directions."
+				}
 			}
 		},
 		{
 			"name": "Mama Guts",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Mama_Guts",
 				"img": {
@@ -879,14 +985,16 @@
 				},
 				"fields": {
 					"description": "Slowly moves around the room, occasionally hopping and firing 8 large blood shots in all directions. Will split into 2 Guts upon death.",
-					"Eternal": "Fires 8 large blood shots in quick succession and spawns 2 Eternal Guts and 1 Eternal Clotty upon death.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Fires 8 large blood shots in quick succession and spawns 2 Eternal Guts and 1 Eternal Clotty upon death."
+				}
 			}
 		},
 		{
 			"name": "B. Licker",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/B._Licker",
 				"img": {
@@ -896,14 +1004,16 @@
 				},
 				"fields": {
 					"description": "Attaches itself to other B. Lickers, erratically moving around the room, similar to Larry Jr.",
-					"Eternal": "Starts pursuing Isaac, leaving behind red creep.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Starts pursuing Isaac, leaving behind red creep."
+				}
 			}
 		},
 		{
 			"name": "Para-Bite",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Para-Bite",
 				"img": {
@@ -913,14 +1023,16 @@
 				},
 				"fields": {
 					"description": "Moves towards Isaac. Can burrow underground and reappear elsewhere.",
-					"Eternal": "Stops pursuing Isaac, spawning 3 smaller Eternal Para-Bites that is close to him.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Stops pursuing Isaac, spawning 3 smaller Eternal Para-Bites that is close to him."
+				}
 			}
 		},
 		{
 			"name": "Fred",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Fred",
 				"img": {
@@ -930,14 +1042,16 @@
 				},
 				"fields": {
 					"description": "Fires an IPECAC shot at Isaac. Will hop out of the ground and burrow elsewhere, firing 4 blood shots in an X pattern while doing so.",
-					"Eternal": "Fires a homing IPECAC shot at Isaac, leaving 8 shots in all directions when diving into ground.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires a homing IPECAC shot at Isaac, leaving 8 shots in all directions when diving into ground."
+				}
 			}
 		},
 		{
 			"name": "Lump",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Lump",
 				"img": {
@@ -947,14 +1061,16 @@
 				},
 				"fields": {
 					"description": "Fires 3 fast-moving blood shots at Isaac when he gets in its line of sight. Will burrow underground and reappear elsewhere after firing its shots.",
-					"Eternal": "Fires 3 blood shots in quick succession.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 blood shots in quick succession."
+				}
 			}
 		},
 		{
 			"name": "Leech",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Leech",
 				"img": {
@@ -963,14 +1079,16 @@
 					"height": 75
 				},
 				"fields": {
-					"description": "Quickly charges towards Isaac when he gets in its line of sight.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Quickly charges towards Isaac when he gets in its line of sight."
+				}
 			}
 		},
 		{
 			"name": "Kamikaze Leech",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Kamikaze_Leech",
 				"img": {
@@ -980,14 +1098,16 @@
 				},
 				"fields": {
 					"description": "Quickly charges towards Isaac when he gets in its line of sight. Explodes with a large blast radius upon death.",
-					"Eternal": "Shoots continuous shots to both sides while moving and has an Eternal Fly circling it.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Shoots continuous shots to both sides while moving and has an Eternal Fly circling it."
+				}
 			}
 		},
 		{
 			"name": "Holy Leech",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Holy_Leech",
 				"img": {
@@ -997,14 +1117,16 @@
 				},
 				"fields": {
 					"description": "Quickly charges towards Isaac when he gets in its line of sight. Explodes with a large blast radius upon death. Has an Eternal Fly circling it.",
-					"Eternal": "Shoots continuous shots to both sides while moving.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Shoots continuous shots to both sides while moving."
+				}
 			}
 		},
 		{
 			"name": "Host",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Host",
 				"img": {
@@ -1014,14 +1136,16 @@
 				},
 				"fields": {
 					"description": "Invulnerable stationary enemy. Raises its head up when Isaac gets close, revealing a fleshy stem that can be damaged. Upon raising its head, it will fire 3 blood shots and lower its head again.",
-					"Eternal": "Invulnerable stationary enemy that reflects Isaac's tears. Raises its head up when Isaac gets close, revealing a fleshy stem that can be damaged. Upon raising its head, it will either fire 5 blood shots in a V formation and lower its head again, or quickly lower its head and fire 8 shots around it.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Invulnerable stationary enemy that reflects Isaac's tears. Raises its head up when Isaac gets close, revealing a fleshy stem that can be damaged. Upon raising its head, it will either fire 5 blood shots in a V formation and lower its head again, or quickly lower its head and fire 8 shots around it."
+				}
 			}
 		},
 		{
 			"name": "Red Host",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Red_Host",
 				"img": {
@@ -1031,14 +1155,16 @@
 				},
 				"fields": {
 					"description": "Stationary enemy that can be damaged even when its head is lowered. Fires 5 blood shots instead of 3 when rising, and fires more frequently.",
-					"Eternal": "Fires 7 blood shots in quick succession. Sometimes, it quickly lower its head and fire 8 shots around it.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Fires 7 blood shots in quick succession. Sometimes, it quickly lower its head and fire 8 shots around it."
+				}
 			}
 		},
 		{
 			"name": "Vis",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Vis",
 				"img": {
@@ -1047,14 +1173,16 @@
 					"height": 94
 				},
 				"fields": {
-					"description": "Charges up a Brimstone laser when Isaac gets in its line of sight.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Charges up a Brimstone laser when Isaac gets in its line of sight."
+				}
 			}
 		},
 		{
 			"name": "Double Vis",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Double_Vis",
 				"img": {
@@ -1064,14 +1192,16 @@
 				},
 				"fields": {
 					"description": "Charges up a Brimstone laser which fires from both sides when Isaac gets in its line of sight.",
-					"Eternal": "Leaves red creep each time it fires a Brimstone laser.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Leaves red creep each time it fires a Brimstone laser."
+				}
 			}
 		},
 		{
 			"name": "Chubber",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Chubber",
 				"img": {
@@ -1081,14 +1211,16 @@
 				},
 				"fields": {
 					"description": "Fires a Little Chubby-like familiar that deals one heart of damage when Isaac gets in its line of sight.",
-					"Eternal": "Leaves red creep each time it shoots a Charger.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Leaves red creep each time it shoots a Charger."
+				}
 			}
 		},
 		{
 			"name": "Poky",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Poky",
 				"img": {
@@ -1097,14 +1229,16 @@
 					"height": 161
 				},
 				"fields": {
-					"description": "Moves around the room, damaging Isaac by contact.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Moves around the room, damaging Isaac by contact."
+				}
 			}
 		},
 		{
 			"name": "Slide",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Slide",
 				"img": {
@@ -1113,14 +1247,16 @@
 					"height": 161
 				},
 				"fields": {
-					"description": "Quickly slides towards Isaac when he gets in front of it.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": false
+					"description": "Quickly slides towards Isaac when he gets in front of it."
+				}
 			}
 		},
 		{
 			"name": "Eye",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Eye",
 				"img": {
@@ -1130,14 +1266,16 @@
 				},
 				"fields": {
 					"description": "Quickly fires a Technology-like laser at Isaac.",
-					"Eternal": "Occasionally shoot continuous blood shots. When this happens, it will keep spinning until it stops after a few seconds.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Occasionally shoot continuous blood shots. When this happens, it will keep spinning until it stops after a few seconds."
+				}
 			}
 		},
 		{
 			"name": "Bloodshot Eye",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Bloodshot_Eye",
 				"img": {
@@ -1146,14 +1284,16 @@
 					"height": 125
 				},
 				"fields": {
-					"description": "Quickly fires a Brimstone-like laser at Isaac.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Quickly fires a Brimstone-like laser at Isaac."
+				}
 			}
 		},
 		{
 			"name": "Dople",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Dople",
 				"img": {
@@ -1162,14 +1302,16 @@
 					"height": 138
 				},
 				"fields": {
-					"description": "Copies Isaac's movements, and fires tears at the same time as him.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Copies Isaac's movements, and fires tears at the same time as him."
+				}
 			}
 		},
 		{
 			"name": "Evil Twin",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Evil_Twin",
 				"img": {
@@ -1178,14 +1320,16 @@
 					"height": 145
 				},
 				"fields": {
-					"description": "Copies Isaac's movements, and fires tears at the same time as him.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Copies Isaac's movements, and fires tears at the same time as him."
+				}
 			}
 		},
 		{
 			"name": "Embryo",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Embryo",
 				"img": {
@@ -1195,14 +1339,16 @@
 				},
 				"fields": {
 					"description": "Aimlessly hops around the room, damaging Isaac by contact damage.",
-					"Eternal": "Shoots large rings of blood shots every time it jumps. Upon taking enough damage, it splits into 4 smaller Eternal Embryos that shoot less blood shots. Smaller Eternal Embryos, however, can only split into 2 even smaller ones, and they no longer shoot blood shots if they are smaller than half-sized ones.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Shoots large rings of blood shots every time it jumps. Upon taking enough damage, it splits into 4 smaller Eternal Embryos that shoot less blood shots. Smaller Eternal Embryos, however, can only split into 2 even smaller ones, and they no longer shoot blood shots if they are smaller than half-sized ones."
+				}
 			}
 		},
 		{
 			"name": "Baby",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Baby",
 				"img": {
@@ -1212,14 +1358,16 @@
 				},
 				"fields": {
 					"description": "Fires a single blood shot at Isaac. Can teleport and reappear elsewhere.",
-					"Eternal": "Leaves 4 blood shots in a + pattern when teleporting.",
-					"Added in": "Initial Release"
-				},
-				"eternal": true
+					"Eternal": "Leaves 4 blood shots in a + pattern when teleporting."
+				}
 			}
 		},
 		{
 			"name": "Angelic Baby",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Angelic_Baby",
 				"img": {
@@ -1229,14 +1377,16 @@
 				},
 				"fields": {
 					"description": "Fires 3 blood shots at once at Isaac, has much more health than regular Babies.",
-					"Eternal": "Leaves 8 blood shots in all directions when teleporting.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Leaves 8 blood shots in all directions when teleporting."
+				}
 			}
 		},
 		{
 			"name": "Keeper",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Keeper",
 				"img": {
@@ -1246,14 +1396,16 @@
 				},
 				"fields": {
 					"description": "Hops around the room, firing 2 blood shots in a V formation at Isaac.",
-					"Eternal": "Stands still before start pursuing Isaac, firing 4 shots each time it lands and also fires 2 shots in quick succession at Isaac.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Stands still before start pursuing Isaac, firing 4 shots each time it lands and also fires 2 shots in quick succession at Isaac."
+				}
 			}
 		},
 		{
 			"name": "Hanger",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": true
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Hanger",
 				"img": {
@@ -1263,14 +1415,16 @@
 				},
 				"fields": {
 					"description": "Floats around the room, firing 3 blood shots at Isaac. Has an Eternal Fly circling it.",
-					"Eternal": "Fires 3 homing blood shots at Isaac.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": true
+					"Eternal": "Fires 3 homing blood shots at Isaac."
+				}
 			}
 		},
 		{
 			"name": "Stone Grimace",
+			"attrs": {
+				"Added in": "Initial Release",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Stone_Grimace",
 				"img": {
@@ -1279,14 +1433,16 @@
 					"height": 102
 				},
 				"fields": {
-					"description": "Stationary and invulnerable monster that fires a fast-moving blood shot at Isaac. Stops firing when room is cleared.",
-					"Added in": "Initial Release"
-				},
-				"eternal": false
+					"description": "Stationary and invulnerable monster that fires a fast-moving blood shot at Isaac. Stops firing when room is cleared."
+				}
 			}
 		},
 		{
 			"name": "Vomit Grimace",
+			"attrs": {
+				"Added in": "Wrath of the Lamb",
+				"Eternal": false
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Vomit_Grimace",
 				"img": {
@@ -1295,19 +1451,9 @@
 					"height": 102
 				},
 				"fields": {
-					"description": "Stationary and invulnerable monster that fires an IPECAC shot at Isaac. Stops firing when room is cleared.",
-					"Added in": "Wrath of the Lamb"
-				},
-				"eternal": false
+					"description": "Stationary and invulnerable monster that fires an IPECAC shot at Isaac. Stops firing when room is cleared."
+				}
 			}
-		}
-	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Added in"
-		},
-		{
-			"pointer": "/props/Eternal"
 		}
 	]
 }

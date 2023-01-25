@@ -8,106 +8,101 @@
 	"items": [
 		{
 			"name": "Isaac",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Isaac",
 				"img": {
 					"src": "assets/isaac.png",
 					"width": 116,
 					"height": 134
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Maggy",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Magdalene",
 				"img": {
 					"src": "assets/maggy.png",
 					"width": 144,
 					"height": 152
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Cain",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Cain",
 				"img": {
 					"src": "assets/cain.png",
 					"width": 116,
 					"height": 134
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Judas",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Judas",
 				"img": {
 					"src": "assets/judas.png",
 					"width": 116,
 					"height": 158
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Eve",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Eve",
 				"img": {
 					"src": "assets/eve.png",
 					"width": 116,
 					"height": 139
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "???",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/%3F%3F%3F",
 				"img": {
 					"src": "assets/xxx.png",
 					"width": 116,
 					"height": 134
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Samson",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Samson",
 				"img": {
 					"src": "assets/samson.png",
 					"width": 127,
 					"height": 135
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
-		}
-	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Added in"
 		}
 	]
 }

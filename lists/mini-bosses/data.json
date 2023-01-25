@@ -8,232 +8,227 @@
 	"items": [
 		{
 			"name": "Envy",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Envy",
 				"img": {
 					"src": "assets/envy.png",
 					"width": 116,
 					"height": 137
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Gluttony",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Gluttony",
 				"img": {
 					"src": "assets/gluttony.png",
 					"width": 116,
 					"height": 150
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Greed",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Greed",
 				"img": {
 					"src": "assets/greed.png",
 					"width": 116,
 					"height": 138
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Lust",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Lust",
 				"img": {
 					"src": "assets/lust.png",
 					"width": 116,
 					"height": 135
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Pride",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Pride",
 				"img": {
 					"src": "assets/pride.png",
 					"width": 116,
 					"height": 136
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Sloth",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Sloth",
 				"img": {
 					"src": "assets/sloth.png",
 					"width": 116,
 					"height": 140
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Wrath",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Wrath",
 				"img": {
 					"src": "assets/wrath.png",
 					"width": 116,
 					"height": 137
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
 		},
 		{
 			"name": "Super Envy",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Super_Envy",
 				"img": {
 					"src": "assets/super-envy.png",
 					"width": 115,
 					"height": 139
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Super Gluttony",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Super_Gluttony",
 				"img": {
 					"src": "assets/super-gluttony.png",
 					"width": 116,
 					"height": 150
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Super Greed",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Super_Greed",
 				"img": {
 					"src": "assets/super-greed.png",
 					"width": 116,
 					"height": 138
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Super Lust",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Super_Lust",
 				"img": {
 					"src": "assets/super-lust.png",
 					"width": 116,
 					"height": 135
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Super Pride",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Super_Pride",
 				"img": {
 					"src": "assets/super-pride.png",
 					"width": 116,
 					"height": 136
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Super Sloth",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Super_Sloth",
 				"img": {
 					"src": "assets/super-sloth.png",
 					"width": 116,
 					"height": 142
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Super Wrath",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Super_Wrath",
 				"img": {
 					"src": "assets/super-wrath.png",
 					"width": 116,
 					"height": 137
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Ultra Pride",
+			"attrs": {
+				"Added in": "Wrath of the Lamb"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Ultra_Pride",
 				"img": {
 					"src": "assets/ultra-pride.png",
 					"width": 128,
 					"height": 169
-				},
-				"fields": {
-					"Added in": "Wrath of the Lamb"
 				}
 			}
 		},
 		{
 			"name": "Krampus",
+			"attrs": {
+				"Added in": "Initial Release"
+			},
 			"props": {
 				"url": "https://bindingofisaac.fandom.com/wiki/Krampus",
 				"img": {
 					"src": "assets/krampus.png",
 					"width": 430,
 					"height": 242
-				},
-				"fields": {
-					"Added in": "Initial Release"
 				}
 			}
-		}
-	],
-	"attrs": [
-		{
-			"pointer": "/props/fields/Added in"
 		}
 	]
 }
